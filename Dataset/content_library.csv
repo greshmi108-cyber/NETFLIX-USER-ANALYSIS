@@ -1,0 +1,1201 @@
+content_id,title,content_type,genre,language,release_year,maturity_rating,is_netflix_original,imdb_rating,production_budget_musd
+C00001,Title_1,Series,Sci-Fi,Hindi,2026,PG,False,8.5,1.81
+C00002,Title_2,Series,Sci-Fi,English,2023,R,False,6.5,11.87
+C00003,Title_3,Series,Comedy,English,2018,TV-MA,True,6.3,14.68
+C00004,Title_4,Movie,Romance,English,2024,R,True,6.0,35.85
+C00005,Title_5,Series,Romance,Portuguese,2017,R,False,6.6,27.09
+C00006,Title_6,Movie,Kids & Family,Spanish,2016,R,True,8.6,23.61
+C00007,Title_7,Series,Anime,English,2018,TV-MA,False,7.9,10.66
+C00008,Title_8,Movie,Action,English,2024,TV-MA,False,7.9,34.45
+C00009,Title_9,Series,Romance,English,2016,R,False,6.4,29.21
+C00010,Title_10,Series,Thriller,Portuguese,2018,R,True,5.7,12.11
+C00011,Title_11,Series,Anime,English,2022,R,False,8.1,36.64
+C00012,Title_12,Series,Drama,French,2025,PG-13,False,5.4,2.68
+C00013,Title_13,Series,Anime,Spanish,2023,PG-13,False,6.2,7.28
+C00014,Title_14,Movie,Crime,German,2026,TV-MA,True,6.7,29.03
+C00015,Title_15,Movie,Kids & Family,Hindi,2015,PG,False,7.5,1.8
+C00016,Title_16,Series,Reality TV,German,2026,PG-13,False,6.7,13.81
+C00017,Title_17,Series,Horror,German,2017,R,True,7.6,25.79
+C00018,Title_18,Series,Kids & Family,English,2022,PG,False,5.3,33.19
+C00019,Title_19,Series,Sci-Fi,German,2019,PG-13,True,8.0,11.77
+C00020,Title_20,Series,Drama,German,2020,TV-MA,False,6.0,22.45
+C00021,Title_21,Movie,Reality TV,English,2020,G,False,6.9,3.56
+C00022,Title_22,Movie,Action,German,2024,R,False,5.6,9.48
+C00023,Title_23,Series,Comedy,Spanish,2016,TV-MA,True,5.7,18.35
+C00024,Title_24,Series,Drama,German,2020,PG-13,False,5.5,5.12
+C00025,Title_25,Series,Sci-Fi,Hindi,2022,TV-MA,True,6.4,7.58
+C00026,Title_26,Series,Horror,German,2016,R,True,7.3,1.93
+C00027,Title_27,Movie,Documentary,Spanish,2017,G,True,6.8,30.61
+C00028,Title_28,Series,Reality TV,English,2024,R,False,6.4,2.73
+C00029,Title_29,Movie,Documentary,French,2016,TV-MA,False,9.6,6.84
+C00030,Title_30,Movie,Anime,Hindi,2019,PG-13,False,6.7,22.77
+C00031,Title_31,Series,Sci-Fi,English,2026,TV-MA,True,6.9,5.32
+C00032,Title_32,Movie,Action,Japanese,2022,TV-MA,False,6.2,23.16
+C00033,Title_33,Movie,Romance,Hindi,2015,TV-MA,False,3.9,5.95
+C00034,Title_34,Series,Thriller,English,2025,TV-MA,False,8.1,9.6
+C00035,Title_35,Series,Romance,English,2018,PG-13,False,7.8,43.69
+C00036,Title_36,Series,Thriller,Hindi,2015,PG,True,5.1,1.02
+C00037,Title_37,Series,Sci-Fi,Japanese,2024,TV-MA,False,5.8,7.18
+C00038,Title_38,Series,Romance,English,2015,G,True,5.5,17.69
+C00039,Title_39,Movie,Drama,Spanish,2023,G,False,8.8,4.04
+C00040,Title_40,Series,Drama,Korean,2015,G,True,8.1,42.13
+C00041,Title_41,Series,Thriller,Portuguese,2020,PG-13,True,6.3,16.65
+C00042,Title_42,Series,Documentary,Japanese,2017,R,False,6.9,32.23
+C00043,Title_43,Movie,Romance,English,2025,PG-13,False,5.4,7.29
+C00044,Title_44,Movie,Sci-Fi,English,2018,TV-MA,True,5.2,9.16
+C00045,Title_45,Movie,Kids & Family,Spanish,2018,R,False,9.8,22.68
+C00046,Title_46,Series,Action,Japanese,2025,PG-13,False,5.9,2.72
+C00047,Title_47,Series,Kids & Family,Korean,2022,PG-13,False,6.6,19.81
+C00048,Title_48,Movie,Drama,Hindi,2021,G,False,6.0,13.73
+C00049,Title_49,Movie,Action,Hindi,2015,PG-13,False,6.8,37.68
+C00050,Title_50,Series,Drama,French,2015,PG,False,6.8,37.37
+C00051,Title_51,Movie,Sci-Fi,English,2020,TV-MA,False,6.3,20.69
+C00052,Title_52,Movie,Action,Hindi,2026,TV-MA,False,3.8,9.65
+C00053,Title_53,Movie,Documentary,Spanish,2015,PG,False,7.1,4.64
+C00054,Title_54,Series,Romance,English,2021,TV-MA,False,6.0,16.4
+C00055,Title_55,Movie,Anime,Korean,2025,PG,False,7.3,17.34
+C00056,Title_56,Movie,Anime,Portuguese,2016,TV-MA,False,6.9,3.76
+C00057,Title_57,Series,Sci-Fi,Spanish,2016,R,False,5.9,40.7
+C00058,Title_58,Series,Comedy,English,2023,R,False,6.5,22.89
+C00059,Title_59,Series,Thriller,Japanese,2019,TV-MA,False,5.7,49.55
+C00060,Title_60,Series,Anime,Portuguese,2015,TV-MA,True,5.6,18.19
+C00061,Title_61,Series,Horror,Japanese,2025,R,True,7.3,35.26
+C00062,Title_62,Series,Thriller,Japanese,2019,R,True,6.2,20.73
+C00063,Title_63,Movie,Crime,Portuguese,2016,PG-13,True,6.4,7.47
+C00064,Title_64,Series,Documentary,Hindi,2015,PG-13,True,5.9,2.22
+C00065,Title_65,Movie,Horror,English,2026,TV-MA,False,6.1,8.16
+C00066,Title_66,Movie,Drama,German,2021,TV-MA,False,5.7,42.38
+C00067,Title_67,Series,Romance,German,2021,TV-MA,False,6.9,45.17
+C00068,Title_68,Series,Anime,English,2021,PG-13,False,8.6,35.04
+C00069,Title_69,Series,Comedy,English,2015,TV-MA,False,6.3,9.75
+C00070,Title_70,Movie,Reality TV,Portuguese,2024,TV-MA,False,6.4,2.81
+C00071,Title_71,Series,Documentary,English,2023,PG,False,7.3,57.22
+C00072,Title_72,Movie,Anime,French,2018,R,False,5.6,1.13
+C00073,Title_73,Series,Documentary,Hindi,2018,TV-MA,False,6.1,8.67
+C00074,Title_74,Movie,Drama,English,2023,R,False,7.3,24.67
+C00075,Title_75,Movie,Anime,German,2015,TV-MA,True,5.7,12.06
+C00076,Title_76,Series,Horror,English,2023,TV-MA,True,6.8,17.04
+C00077,Title_77,Movie,Comedy,Spanish,2021,R,True,5.2,26.61
+C00078,Title_78,Movie,Crime,English,2020,PG,False,6.3,0.74
+C00079,Title_79,Series,Crime,English,2015,PG-13,True,7.3,8.42
+C00080,Title_80,Movie,Action,French,2015,PG-13,False,6.5,30.57
+C00081,Title_81,Series,Drama,Japanese,2015,PG-13,False,7.5,21.6
+C00082,Title_82,Series,Crime,Spanish,2019,PG-13,False,4.7,18.26
+C00083,Title_83,Series,Kids & Family,Spanish,2018,PG,True,7.0,14.67
+C00084,Title_84,Series,Anime,Spanish,2024,PG-13,True,7.5,21.13
+C00085,Title_85,Series,Drama,Korean,2019,PG,True,6.9,12.8
+C00086,Title_86,Series,Thriller,English,2017,PG-13,False,6.3,1.48
+C00087,Title_87,Series,Kids & Family,Korean,2024,G,False,8.7,0.75
+C00088,Title_88,Movie,Romance,French,2015,TV-MA,True,7.6,0.44
+C00089,Title_89,Series,Action,English,2018,PG-13,False,6.6,7.03
+C00090,Title_90,Movie,Kids & Family,Portuguese,2020,TV-MA,False,6.7,13.7
+C00091,Title_91,Series,Documentary,German,2021,PG-13,False,6.7,5.6
+C00092,Title_92,Movie,Crime,Spanish,2022,TV-MA,False,7.0,26.8
+C00093,Title_93,Movie,Sci-Fi,German,2023,G,True,4.3,7.24
+C00094,Title_94,Movie,Thriller,Portuguese,2016,PG,True,6.4,57.09
+C00095,Title_95,Series,Crime,English,2018,PG-13,False,7.9,16.26
+C00096,Title_96,Series,Anime,Japanese,2024,TV-MA,False,7.9,8.88
+C00097,Title_97,Series,Horror,Japanese,2025,PG,False,6.1,0.98
+C00098,Title_98,Series,Documentary,English,2019,TV-MA,False,4.2,16.85
+C00099,Title_99,Series,Documentary,Hindi,2022,G,False,7.9,2.11
+C00100,Title_100,Movie,Drama,English,2016,PG-13,True,7.0,33.93
+C00101,Title_101,Series,Reality TV,Spanish,2016,PG-13,False,6.2,13.18
+C00102,Title_102,Movie,Kids & Family,English,2019,PG-13,True,6.2,36.62
+C00103,Title_103,Series,Reality TV,Korean,2018,PG-13,True,5.5,15.29
+C00104,Title_104,Movie,Kids & Family,Japanese,2015,TV-MA,False,6.4,16.97
+C00105,Title_105,Series,Thriller,Spanish,2020,G,False,7.5,3.97
+C00106,Title_106,Movie,Horror,Portuguese,2015,PG-13,False,7.4,3.6
+C00107,Title_107,Series,Reality TV,Korean,2018,TV-MA,False,6.6,32.98
+C00108,Title_108,Series,Crime,Spanish,2026,PG,True,7.7,10.55
+C00109,Title_109,Series,Drama,Japanese,2022,PG-13,True,6.1,5.32
+C00110,Title_110,Movie,Crime,English,2024,G,False,6.1,5.33
+C00111,Title_111,Series,Drama,Portuguese,2024,TV-MA,False,7.5,9.2
+C00112,Title_112,Series,Reality TV,Spanish,2015,TV-MA,False,6.7,21.16
+C00113,Title_113,Movie,Sci-Fi,German,2022,PG,True,7.2,7.75
+C00114,Title_114,Series,Documentary,Japanese,2018,TV-MA,False,8.1,8.0
+C00115,Title_115,Movie,Thriller,English,2018,PG-13,True,7.2,27.48
+C00116,Title_116,Series,Reality TV,English,2019,PG-13,False,5.7,49.85
+C00117,Title_117,Series,Action,French,2024,G,False,6.6,14.42
+C00118,Title_118,Movie,Anime,English,2022,PG,True,8.6,39.01
+C00119,Title_119,Movie,Crime,English,2019,G,False,7.5,4.74
+C00120,Title_120,Series,Action,Portuguese,2016,PG,False,8.5,1.89
+C00121,Title_121,Movie,Reality TV,English,2015,R,False,7.4,12.1
+C00122,Title_122,Series,Crime,Hindi,2026,G,True,7.2,51.67
+C00123,Title_123,Series,Sci-Fi,English,2016,TV-MA,True,7.5,21.02
+C00124,Title_124,Series,Documentary,English,2019,PG,False,7.3,12.18
+C00125,Title_125,Series,Horror,French,2019,TV-MA,False,6.8,8.46
+C00126,Title_126,Movie,Comedy,English,2026,PG-13,False,7.6,31.4
+C00127,Title_127,Movie,Romance,English,2020,R,False,6.7,13.53
+C00128,Title_128,Series,Crime,French,2021,PG-13,False,6.9,3.73
+C00129,Title_129,Series,Documentary,Hindi,2016,TV-MA,True,7.2,18.76
+C00130,Title_130,Series,Action,Korean,2023,PG-13,False,6.5,7.91
+C00131,Title_131,Series,Anime,English,2025,PG-13,False,7.5,21.8
+C00132,Title_132,Series,Sci-Fi,English,2026,G,False,8.1,53.01
+C00133,Title_133,Series,Anime,English,2017,R,False,7.7,21.27
+C00134,Title_134,Series,Anime,German,2025,TV-MA,False,6.6,29.94
+C00135,Title_135,Movie,Drama,Portuguese,2018,TV-MA,False,5.3,13.35
+C00136,Title_136,Movie,Crime,French,2016,TV-MA,False,7.3,12.91
+C00137,Title_137,Series,Kids & Family,Hindi,2016,TV-MA,True,6.2,33.34
+C00138,Title_138,Series,Romance,Korean,2016,PG-13,False,9.3,25.95
+C00139,Title_139,Series,Horror,French,2017,PG-13,True,7.4,7.03
+C00140,Title_140,Series,Anime,English,2021,G,True,6.6,40.59
+C00141,Title_141,Series,Anime,Hindi,2023,R,False,6.2,3.64
+C00142,Title_142,Movie,Anime,German,2019,TV-MA,True,6.7,54.84
+C00143,Title_143,Series,Documentary,Korean,2016,TV-MA,True,9.3,23.71
+C00144,Title_144,Series,Romance,English,2017,R,False,8.0,16.69
+C00145,Title_145,Series,Kids & Family,English,2016,TV-MA,True,8.1,19.56
+C00146,Title_146,Movie,Anime,Korean,2016,TV-MA,False,7.4,24.49
+C00147,Title_147,Series,Comedy,English,2020,PG-13,False,6.8,8.93
+C00148,Title_148,Series,Reality TV,English,2019,PG,False,7.1,43.9
+C00149,Title_149,Movie,Action,English,2021,R,True,6.1,10.81
+C00150,Title_150,Movie,Comedy,Korean,2020,PG-13,False,6.3,0.45
+C00151,Title_151,Series,Sci-Fi,Hindi,2015,R,False,7.5,16.7
+C00152,Title_152,Movie,Action,Portuguese,2018,PG-13,True,6.6,37.73
+C00153,Title_153,Series,Horror,Spanish,2015,PG,True,5.7,40.34
+C00154,Title_154,Series,Drama,Hindi,2025,PG-13,False,5.8,9.64
+C00155,Title_155,Movie,Anime,English,2019,PG,True,5.7,24.56
+C00156,Title_156,Movie,Kids & Family,German,2020,PG-13,False,6.8,11.93
+C00157,Title_157,Series,Drama,French,2023,PG-13,True,5.2,11.75
+C00158,Title_158,Movie,Anime,French,2018,TV-MA,True,8.0,70.3
+C00159,Title_159,Series,Thriller,English,2016,TV-MA,True,5.9,8.91
+C00160,Title_160,Movie,Romance,English,2017,PG-13,True,6.7,4.0
+C00161,Title_161,Movie,Kids & Family,Spanish,2018,TV-MA,True,7.4,5.11
+C00162,Title_162,Movie,Documentary,French,2021,R,False,8.3,17.22
+C00163,Title_163,Movie,Thriller,English,2018,PG,True,7.2,7.0
+C00164,Title_164,Series,Comedy,English,2020,TV-MA,False,5.6,7.12
+C00165,Title_165,Movie,Kids & Family,Hindi,2019,R,True,5.5,8.82
+C00166,Title_166,Movie,Anime,English,2020,TV-MA,False,8.4,74.07
+C00167,Title_167,Series,Drama,Portuguese,2019,TV-MA,True,7.1,36.77
+C00168,Title_168,Series,Anime,English,2022,TV-MA,False,7.0,17.54
+C00169,Title_169,Series,Documentary,French,2021,R,True,7.4,19.32
+C00170,Title_170,Movie,Thriller,Korean,2024,TV-MA,False,6.3,4.29
+C00171,Title_171,Movie,Documentary,English,2025,PG,False,5.1,84.17
+C00172,Title_172,Movie,Documentary,Hindi,2018,TV-MA,False,6.7,0.67
+C00173,Title_173,Series,Anime,Spanish,2023,PG-13,True,8.2,14.05
+C00174,Title_174,Movie,Comedy,English,2021,TV-MA,True,7.9,33.24
+C00175,Title_175,Movie,Thriller,Spanish,2025,TV-MA,True,8.4,10.18
+C00176,Title_176,Series,Horror,French,2020,TV-MA,False,8.7,2.68
+C00177,Title_177,Series,Anime,English,2024,PG,False,7.9,11.04
+C00178,Title_178,Series,Action,English,2015,PG,False,4.5,43.24
+C00179,Title_179,Series,Kids & Family,English,2016,PG-13,False,7.5,1.29
+C00180,Title_180,Movie,Comedy,Spanish,2025,G,True,5.5,2.04
+C00181,Title_181,Movie,Thriller,English,2018,R,True,8.8,67.97
+C00182,Title_182,Series,Crime,English,2020,PG-13,False,6.2,2.02
+C00183,Title_183,Series,Anime,French,2025,TV-MA,False,7.1,33.09
+C00184,Title_184,Series,Anime,French,2020,PG-13,False,7.6,3.21
+C00185,Title_185,Series,Crime,English,2020,R,True,5.1,16.76
+C00186,Title_186,Series,Action,Portuguese,2015,TV-MA,False,6.4,3.81
+C00187,Title_187,Series,Sci-Fi,English,2019,PG-13,False,7.1,13.4
+C00188,Title_188,Movie,Action,Spanish,2019,TV-MA,False,5.6,37.03
+C00189,Title_189,Series,Action,Hindi,2025,R,False,8.5,5.36
+C00190,Title_190,Series,Action,French,2016,TV-MA,True,4.7,36.59
+C00191,Title_191,Series,Kids & Family,English,2017,PG,True,6.6,3.05
+C00192,Title_192,Series,Kids & Family,Spanish,2024,G,False,5.6,12.78
+C00193,Title_193,Movie,Horror,Korean,2023,PG-13,False,7.6,21.76
+C00194,Title_194,Movie,Reality TV,Portuguese,2017,PG-13,True,5.2,1.7
+C00195,Title_195,Series,Romance,English,2017,TV-MA,False,5.6,22.12
+C00196,Title_196,Series,Romance,German,2019,PG-13,True,6.2,9.83
+C00197,Title_197,Series,Crime,Portuguese,2017,PG-13,False,6.2,10.19
+C00198,Title_198,Series,Sci-Fi,English,2018,PG-13,False,8.1,7.03
+C00199,Title_199,Series,Drama,Spanish,2015,R,True,7.3,2.51
+C00200,Title_200,Series,Documentary,Spanish,2022,G,False,7.5,24.48
+C00201,Title_201,Series,Documentary,Hindi,2018,R,False,8.3,29.58
+C00202,Title_202,Series,Sci-Fi,Spanish,2016,PG-13,True,7.1,39.16
+C00203,Title_203,Series,Reality TV,Spanish,2021,TV-MA,True,6.3,3.29
+C00204,Title_204,Movie,Reality TV,Korean,2025,PG,False,6.1,9.15
+C00205,Title_205,Series,Documentary,English,2025,G,False,7.7,26.72
+C00206,Title_206,Movie,Documentary,French,2016,R,False,6.1,5.48
+C00207,Title_207,Series,Drama,Portuguese,2019,TV-MA,True,6.2,3.9
+C00208,Title_208,Movie,Drama,English,2025,PG,True,5.7,10.69
+C00209,Title_209,Movie,Comedy,English,2020,PG,True,6.6,28.03
+C00210,Title_210,Series,Comedy,Spanish,2022,R,False,6.7,29.5
+C00211,Title_211,Movie,Reality TV,English,2021,TV-MA,False,7.9,7.97
+C00212,Title_212,Series,Comedy,English,2025,G,False,7.1,31.33
+C00213,Title_213,Series,Comedy,German,2022,G,False,6.1,32.91
+C00214,Title_214,Series,Romance,English,2021,TV-MA,True,9.3,15.02
+C00215,Title_215,Movie,Kids & Family,English,2015,G,True,7.6,2.86
+C00216,Title_216,Movie,Drama,English,2025,R,False,7.2,6.08
+C00217,Title_217,Movie,Comedy,English,2018,PG,False,6.1,0.12
+C00218,Title_218,Movie,Sci-Fi,Portuguese,2017,G,True,7.0,52.23
+C00219,Title_219,Series,Drama,Korean,2018,TV-MA,True,9.3,2.63
+C00220,Title_220,Movie,Romance,French,2021,TV-MA,True,7.9,20.65
+C00221,Title_221,Series,Sci-Fi,German,2019,G,False,7.9,3.28
+C00222,Title_222,Series,Crime,German,2016,PG-13,False,7.2,2.48
+C00223,Title_223,Series,Anime,Spanish,2019,TV-MA,False,8.4,11.58
+C00224,Title_224,Movie,Kids & Family,German,2023,TV-MA,False,6.3,2.35
+C00225,Title_225,Movie,Drama,Hindi,2025,TV-MA,True,7.7,0.35
+C00226,Title_226,Series,Sci-Fi,Portuguese,2015,R,False,7.4,4.1
+C00227,Title_227,Movie,Crime,French,2021,TV-MA,True,7.0,5.28
+C00228,Title_228,Series,Horror,Spanish,2017,PG,False,5.0,1.54
+C00229,Title_229,Series,Action,Hindi,2022,TV-MA,True,9.0,5.83
+C00230,Title_230,Movie,Documentary,English,2018,TV-MA,True,6.7,5.37
+C00231,Title_231,Series,Comedy,Spanish,2021,PG-13,False,7.8,10.1
+C00232,Title_232,Series,Action,Hindi,2023,R,True,5.4,6.13
+C00233,Title_233,Movie,Kids & Family,English,2018,PG,False,7.7,0.8
+C00234,Title_234,Series,Crime,Japanese,2019,R,False,7.0,66.97
+C00235,Title_235,Movie,Comedy,German,2016,TV-MA,False,8.3,1.72
+C00236,Title_236,Series,Sci-Fi,Portuguese,2025,PG,False,4.5,43.14
+C00237,Title_237,Movie,Comedy,English,2023,PG-13,False,8.2,20.35
+C00238,Title_238,Series,Documentary,Portuguese,2016,TV-MA,True,4.6,10.75
+C00239,Title_239,Series,Anime,Portuguese,2017,PG-13,False,3.8,2.92
+C00240,Title_240,Series,Romance,English,2016,PG,True,8.3,9.85
+C00241,Title_241,Series,Drama,Spanish,2023,TV-MA,False,8.4,16.3
+C00242,Title_242,Series,Anime,German,2022,PG,False,6.9,16.6
+C00243,Title_243,Series,Sci-Fi,English,2024,PG-13,False,6.1,5.27
+C00244,Title_244,Movie,Documentary,Hindi,2015,R,False,7.2,15.46
+C00245,Title_245,Series,Reality TV,Spanish,2015,PG-13,True,6.6,15.4
+C00246,Title_246,Series,Crime,English,2024,PG-13,True,6.2,19.3
+C00247,Title_247,Series,Drama,Hindi,2025,PG,False,5.4,8.18
+C00248,Title_248,Series,Anime,German,2015,PG-13,True,7.4,28.25
+C00249,Title_249,Movie,Documentary,English,2023,TV-MA,True,4.7,4.05
+C00250,Title_250,Series,Romance,French,2015,TV-MA,False,7.6,5.73
+C00251,Title_251,Movie,Documentary,German,2015,PG-13,False,6.7,12.26
+C00252,Title_252,Series,Kids & Family,Korean,2026,PG-13,True,5.6,66.0
+C00253,Title_253,Series,Drama,German,2019,PG-13,False,7.4,7.03
+C00254,Title_254,Movie,Action,French,2019,TV-MA,True,7.8,9.95
+C00255,Title_255,Series,Reality TV,Portuguese,2017,TV-MA,True,7.3,30.24
+C00256,Title_256,Movie,Documentary,Hindi,2022,PG-13,True,7.9,1.27
+C00257,Title_257,Movie,Crime,Korean,2024,PG,False,8.2,13.19
+C00258,Title_258,Series,Reality TV,Portuguese,2020,TV-MA,False,7.3,4.38
+C00259,Title_259,Movie,Action,German,2020,R,False,6.3,2.94
+C00260,Title_260,Series,Sci-Fi,Korean,2018,TV-MA,True,7.4,32.88
+C00261,Title_261,Movie,Comedy,Hindi,2019,R,False,6.7,6.54
+C00262,Title_262,Movie,Reality TV,Hindi,2022,PG-13,False,6.8,88.15
+C00263,Title_263,Series,Thriller,Hindi,2021,R,False,7.5,5.3
+C00264,Title_264,Series,Horror,French,2024,R,False,6.1,0.26
+C00265,Title_265,Series,Kids & Family,German,2023,PG,False,7.1,21.46
+C00266,Title_266,Movie,Comedy,Hindi,2023,PG-13,False,6.0,22.63
+C00267,Title_267,Series,Action,Spanish,2018,PG,True,6.8,31.41
+C00268,Title_268,Movie,Horror,Spanish,2021,TV-MA,False,6.8,13.26
+C00269,Title_269,Movie,Comedy,Portuguese,2016,G,True,5.6,1.49
+C00270,Title_270,Series,Drama,Japanese,2026,PG-13,False,7.1,18.4
+C00271,Title_271,Series,Anime,English,2020,R,False,8.4,13.76
+C00272,Title_272,Series,Romance,Japanese,2015,PG-13,False,6.5,16.28
+C00273,Title_273,Movie,Thriller,German,2015,PG,False,6.8,0.4
+C00274,Title_274,Movie,Thriller,English,2020,PG-13,True,7.4,16.77
+C00275,Title_275,Series,Action,English,2019,R,True,6.2,42.97
+C00276,Title_276,Series,Thriller,German,2018,PG,True,8.4,74.3
+C00277,Title_277,Series,Drama,Japanese,2026,TV-MA,True,7.0,14.96
+C00278,Title_278,Movie,Sci-Fi,English,2018,G,False,6.3,38.94
+C00279,Title_279,Series,Anime,English,2022,R,False,5.6,6.77
+C00280,Title_280,Movie,Drama,English,2018,PG-13,False,6.8,24.12
+C00281,Title_281,Series,Sci-Fi,English,2015,G,True,6.5,27.09
+C00282,Title_282,Movie,Kids & Family,French,2021,G,True,5.7,21.07
+C00283,Title_283,Series,Sci-Fi,Spanish,2026,PG-13,True,7.9,5.24
+C00284,Title_284,Series,Romance,English,2021,TV-MA,False,6.2,7.59
+C00285,Title_285,Series,Crime,Spanish,2024,PG-13,True,7.2,58.09
+C00286,Title_286,Movie,Thriller,German,2017,PG-13,True,6.8,76.17
+C00287,Title_287,Series,Romance,English,2017,TV-MA,False,7.4,3.99
+C00288,Title_288,Movie,Reality TV,English,2021,G,False,5.6,1.21
+C00289,Title_289,Movie,Anime,English,2016,PG-13,True,5.2,7.89
+C00290,Title_290,Series,Anime,English,2026,R,False,7.0,8.08
+C00291,Title_291,Series,Thriller,English,2023,PG-13,False,8.4,69.68
+C00292,Title_292,Series,Anime,French,2026,PG,True,7.5,9.38
+C00293,Title_293,Series,Sci-Fi,English,2016,PG-13,False,6.3,15.05
+C00294,Title_294,Movie,Action,Spanish,2025,PG-13,False,7.8,5.57
+C00295,Title_295,Movie,Thriller,Spanish,2023,TV-MA,False,6.2,5.32
+C00296,Title_296,Series,Comedy,English,2019,PG,False,6.1,9.64
+C00297,Title_297,Movie,Thriller,English,2016,TV-MA,True,6.5,1.99
+C00298,Title_298,Movie,Crime,Japanese,2022,PG,True,6.0,2.1
+C00299,Title_299,Series,Crime,German,2023,TV-MA,False,6.9,23.77
+C00300,Title_300,Series,Thriller,English,2023,TV-MA,False,6.8,0.01
+C00301,Title_301,Series,Horror,Korean,2020,R,True,5.5,45.89
+C00302,Title_302,Movie,Action,Korean,2017,PG-13,True,7.4,43.87
+C00303,Title_303,Series,Documentary,Hindi,2019,R,False,7.3,5.89
+C00304,Title_304,Series,Action,Korean,2019,PG,False,7.6,2.56
+C00305,Title_305,Movie,Crime,English,2023,TV-MA,False,6.9,33.79
+C00306,Title_306,Series,Thriller,Korean,2019,TV-MA,True,7.7,6.92
+C00307,Title_307,Series,Drama,Portuguese,2019,TV-MA,True,6.9,5.81
+C00308,Title_308,Movie,Comedy,English,2026,PG-13,True,7.3,10.84
+C00309,Title_309,Series,Action,Spanish,2017,PG-13,False,6.3,16.08
+C00310,Title_310,Series,Thriller,French,2023,TV-MA,False,7.9,7.96
+C00311,Title_311,Movie,Documentary,Spanish,2020,R,False,6.3,28.25
+C00312,Title_312,Movie,Anime,Korean,2020,R,False,7.1,5.62
+C00313,Title_313,Movie,Comedy,English,2022,TV-MA,True,8.0,11.7
+C00314,Title_314,Series,Comedy,Portuguese,2025,PG-13,False,7.6,0.79
+C00315,Title_315,Series,Crime,Spanish,2021,PG-13,False,6.5,19.83
+C00316,Title_316,Series,Romance,English,2017,PG-13,False,6.2,22.58
+C00317,Title_317,Series,Documentary,English,2016,PG-13,True,5.2,20.54
+C00318,Title_318,Series,Reality TV,Spanish,2025,TV-MA,False,7.9,15.58
+C00319,Title_319,Series,Documentary,German,2018,PG,False,6.7,16.49
+C00320,Title_320,Movie,Thriller,English,2023,R,False,5.6,9.18
+C00321,Title_321,Series,Drama,Hindi,2025,PG-13,True,6.4,32.53
+C00322,Title_322,Movie,Sci-Fi,Spanish,2016,TV-MA,False,6.3,3.17
+C00323,Title_323,Movie,Romance,English,2022,TV-MA,True,5.6,34.05
+C00324,Title_324,Series,Crime,English,2016,TV-MA,False,6.0,17.56
+C00325,Title_325,Series,Horror,German,2026,TV-MA,False,6.1,10.1
+C00326,Title_326,Movie,Drama,Japanese,2024,PG-13,False,4.5,9.6
+C00327,Title_327,Series,Drama,Hindi,2025,PG,False,5.8,25.38
+C00328,Title_328,Series,Reality TV,Portuguese,2018,G,True,5.6,0.67
+C00329,Title_329,Series,Anime,English,2023,TV-MA,True,6.9,7.46
+C00330,Title_330,Movie,Horror,English,2016,PG-13,True,5.1,6.38
+C00331,Title_331,Movie,Romance,Korean,2019,PG,False,5.3,7.43
+C00332,Title_332,Movie,Anime,French,2026,R,False,5.0,8.27
+C00333,Title_333,Movie,Documentary,English,2017,PG-13,False,6.3,20.79
+C00334,Title_334,Movie,Reality TV,English,2024,TV-MA,True,5.9,18.93
+C00335,Title_335,Movie,Anime,English,2026,PG,True,6.9,50.76
+C00336,Title_336,Series,Crime,Hindi,2015,TV-MA,False,7.3,14.53
+C00337,Title_337,Series,Documentary,Japanese,2025,PG,True,7.1,1.54
+C00338,Title_338,Series,Kids & Family,English,2024,PG-13,False,5.8,7.9
+C00339,Title_339,Movie,Documentary,French,2017,TV-MA,False,6.9,16.13
+C00340,Title_340,Movie,Crime,Japanese,2019,TV-MA,False,6.2,2.14
+C00341,Title_341,Movie,Horror,English,2021,PG,False,6.5,27.36
+C00342,Title_342,Movie,Thriller,Hindi,2018,G,False,6.9,13.99
+C00343,Title_343,Movie,Drama,Spanish,2016,PG-13,True,7.7,1.18
+C00344,Title_344,Series,Thriller,English,2026,R,True,6.5,30.5
+C00345,Title_345,Movie,Reality TV,English,2024,PG,False,7.0,13.0
+C00346,Title_346,Movie,Anime,English,2020,R,False,5.9,8.28
+C00347,Title_347,Series,Comedy,French,2024,G,False,6.2,0.69
+C00348,Title_348,Movie,Sci-Fi,French,2019,R,True,5.3,38.45
+C00349,Title_349,Series,Drama,Korean,2025,TV-MA,True,5.1,12.11
+C00350,Title_350,Movie,Action,English,2015,G,False,5.4,23.38
+C00351,Title_351,Movie,Kids & Family,German,2018,TV-MA,True,7.6,31.6
+C00352,Title_352,Series,Drama,French,2021,TV-MA,False,6.4,4.88
+C00353,Title_353,Series,Romance,French,2022,PG,False,5.4,6.51
+C00354,Title_354,Movie,Kids & Family,Korean,2019,TV-MA,True,4.9,6.47
+C00355,Title_355,Movie,Thriller,Spanish,2016,G,False,5.2,3.64
+C00356,Title_356,Series,Sci-Fi,English,2017,TV-MA,True,7.3,27.57
+C00357,Title_357,Movie,Reality TV,Portuguese,2018,G,False,6.4,5.85
+C00358,Title_358,Movie,Horror,Portuguese,2024,TV-MA,False,6.5,24.73
+C00359,Title_359,Series,Romance,English,2015,PG-13,False,7.9,1.48
+C00360,Title_360,Movie,Crime,Portuguese,2022,TV-MA,False,7.7,26.34
+C00361,Title_361,Series,Crime,Korean,2018,R,False,6.0,20.09
+C00362,Title_362,Movie,Kids & Family,English,2016,TV-MA,True,9.0,1.32
+C00363,Title_363,Movie,Action,English,2018,G,False,6.4,12.52
+C00364,Title_364,Series,Comedy,Hindi,2015,TV-MA,False,6.3,3.89
+C00365,Title_365,Movie,Comedy,English,2025,PG-13,True,6.9,0.42
+C00366,Title_366,Series,Horror,English,2019,R,False,4.1,22.59
+C00367,Title_367,Movie,Reality TV,English,2016,PG-13,False,7.0,18.02
+C00368,Title_368,Movie,Thriller,English,2023,PG-13,False,6.5,11.74
+C00369,Title_369,Series,Horror,Korean,2021,R,False,6.4,7.11
+C00370,Title_370,Series,Action,Spanish,2017,G,False,9.2,0.37
+C00371,Title_371,Series,Action,French,2021,R,False,7.7,0.62
+C00372,Title_372,Series,Romance,Spanish,2025,PG,False,5.7,13.45
+C00373,Title_373,Movie,Reality TV,English,2024,TV-MA,False,6.4,13.62
+C00374,Title_374,Series,Sci-Fi,English,2015,TV-MA,False,4.6,4.96
+C00375,Title_375,Movie,Documentary,English,2019,PG,True,9.7,27.55
+C00376,Title_376,Movie,Kids & Family,Korean,2020,TV-MA,False,6.3,1.07
+C00377,Title_377,Movie,Romance,Korean,2026,TV-MA,False,6.4,5.21
+C00378,Title_378,Series,Drama,English,2018,G,False,7.2,19.18
+C00379,Title_379,Movie,Action,Hindi,2015,PG-13,False,6.1,99.92
+C00380,Title_380,Movie,Documentary,English,2025,PG-13,False,6.7,10.41
+C00381,Title_381,Series,Crime,English,2022,G,False,6.6,3.46
+C00382,Title_382,Movie,Thriller,Japanese,2019,TV-MA,False,8.5,8.75
+C00383,Title_383,Series,Documentary,German,2020,PG,False,6.2,17.65
+C00384,Title_384,Series,Comedy,Japanese,2017,G,False,8.9,20.81
+C00385,Title_385,Series,Comedy,German,2021,TV-MA,False,7.6,34.51
+C00386,Title_386,Series,Romance,English,2021,PG-13,True,6.3,4.66
+C00387,Title_387,Series,Drama,Hindi,2025,PG-13,False,7.0,21.29
+C00388,Title_388,Movie,Sci-Fi,Japanese,2020,TV-MA,True,6.3,2.9
+C00389,Title_389,Movie,Action,Portuguese,2017,PG-13,False,5.9,20.39
+C00390,Title_390,Series,Anime,English,2024,TV-MA,True,5.5,1.02
+C00391,Title_391,Series,Reality TV,English,2022,R,False,6.5,49.13
+C00392,Title_392,Movie,Romance,English,2017,PG-13,False,8.1,7.39
+C00393,Title_393,Series,Crime,Portuguese,2026,PG-13,False,6.2,37.16
+C00394,Title_394,Series,Crime,English,2015,TV-MA,False,6.0,8.61
+C00395,Title_395,Movie,Documentary,French,2020,TV-MA,False,5.3,17.65
+C00396,Title_396,Movie,Romance,German,2018,PG-13,False,6.9,5.22
+C00397,Title_397,Series,Crime,English,2022,G,False,6.0,6.82
+C00398,Title_398,Series,Crime,English,2023,PG-13,True,6.7,23.72
+C00399,Title_399,Series,Reality TV,Portuguese,2025,PG,False,7.9,2.44
+C00400,Title_400,Series,Sci-Fi,French,2020,PG,False,6.2,21.75
+C00401,Title_401,Series,Documentary,Korean,2019,TV-MA,True,6.5,40.37
+C00402,Title_402,Series,Comedy,French,2022,R,True,6.2,9.51
+C00403,Title_403,Movie,Crime,Spanish,2025,TV-MA,False,8.2,4.59
+C00404,Title_404,Series,Documentary,English,2016,TV-MA,False,7.8,0.08
+C00405,Title_405,Series,Drama,Spanish,2019,PG-13,True,6.8,25.17
+C00406,Title_406,Series,Romance,Portuguese,2023,R,True,7.6,8.75
+C00407,Title_407,Series,Comedy,English,2020,TV-MA,False,6.2,15.1
+C00408,Title_408,Series,Action,Korean,2018,TV-MA,True,7.0,10.12
+C00409,Title_409,Series,Thriller,English,2015,TV-MA,False,5.2,8.61
+C00410,Title_410,Movie,Horror,English,2021,TV-MA,False,6.3,1.86
+C00411,Title_411,Series,Anime,Portuguese,2023,R,False,6.9,5.36
+C00412,Title_412,Series,Sci-Fi,Portuguese,2024,PG-13,False,8.2,45.37
+C00413,Title_413,Movie,Sci-Fi,German,2024,R,False,5.8,5.01
+C00414,Title_414,Movie,Documentary,English,2022,PG,False,7.7,7.17
+C00415,Title_415,Movie,Comedy,English,2018,TV-MA,True,7.1,51.05
+C00416,Title_416,Movie,Anime,English,2021,PG,True,8.0,9.94
+C00417,Title_417,Movie,Drama,Korean,2026,PG-13,False,7.1,9.89
+C00418,Title_418,Series,Thriller,German,2021,PG-13,False,6.7,6.59
+C00419,Title_419,Movie,Anime,English,2018,TV-MA,True,5.7,1.29
+C00420,Title_420,Series,Sci-Fi,German,2025,TV-MA,True,7.6,8.49
+C00421,Title_421,Movie,Sci-Fi,Japanese,2015,PG-13,True,7.2,34.44
+C00422,Title_422,Movie,Romance,Spanish,2021,TV-MA,True,6.9,16.86
+C00423,Title_423,Series,Kids & Family,Japanese,2019,TV-MA,True,9.1,26.16
+C00424,Title_424,Series,Anime,Japanese,2016,PG-13,False,5.8,1.88
+C00425,Title_425,Movie,Documentary,English,2017,R,True,5.7,3.88
+C00426,Title_426,Movie,Horror,French,2015,PG-13,False,6.5,19.88
+C00427,Title_427,Movie,Thriller,Portuguese,2021,R,False,6.4,5.84
+C00428,Title_428,Movie,Reality TV,English,2023,TV-MA,False,8.0,0.91
+C00429,Title_429,Movie,Thriller,Japanese,2018,G,False,8.4,5.76
+C00430,Title_430,Series,Sci-Fi,Japanese,2019,R,False,7.3,2.17
+C00431,Title_431,Series,Crime,Portuguese,2026,R,False,8.1,8.59
+C00432,Title_432,Movie,Action,Portuguese,2025,G,False,7.6,20.28
+C00433,Title_433,Movie,Kids & Family,Japanese,2021,TV-MA,False,6.6,4.96
+C00434,Title_434,Series,Anime,French,2024,PG-13,False,6.9,7.03
+C00435,Title_435,Movie,Action,English,2025,PG-13,True,7.8,9.07
+C00436,Title_436,Movie,Reality TV,Japanese,2020,PG-13,False,6.1,20.92
+C00437,Title_437,Movie,Horror,English,2022,PG,False,5.9,6.73
+C00438,Title_438,Series,Horror,English,2026,G,False,6.7,52.79
+C00439,Title_439,Movie,Comedy,English,2018,PG-13,True,5.0,3.83
+C00440,Title_440,Movie,Thriller,Korean,2025,TV-MA,False,5.8,12.71
+C00441,Title_441,Movie,Reality TV,Hindi,2019,PG-13,True,7.0,0.96
+C00442,Title_442,Series,Romance,Japanese,2026,R,False,4.8,8.39
+C00443,Title_443,Series,Documentary,Korean,2021,R,False,6.2,16.68
+C00444,Title_444,Series,Drama,English,2019,PG,True,5.8,21.82
+C00445,Title_445,Movie,Horror,Spanish,2018,R,True,5.3,1.92
+C00446,Title_446,Movie,Comedy,Portuguese,2017,TV-MA,False,5.7,8.71
+C00447,Title_447,Movie,Documentary,English,2022,TV-MA,True,4.3,39.34
+C00448,Title_448,Series,Anime,English,2015,TV-MA,False,5.5,6.29
+C00449,Title_449,Series,Thriller,English,2024,TV-MA,False,5.4,30.16
+C00450,Title_450,Series,Thriller,Hindi,2020,R,False,5.2,7.97
+C00451,Title_451,Movie,Action,French,2015,PG,True,7.0,5.38
+C00452,Title_452,Movie,Horror,German,2023,G,True,8.2,8.79
+C00453,Title_453,Series,Horror,Korean,2020,R,False,7.9,9.48
+C00454,Title_454,Series,Documentary,English,2024,TV-MA,False,8.0,3.47
+C00455,Title_455,Movie,Thriller,Japanese,2022,TV-MA,False,6.2,5.82
+C00456,Title_456,Series,Romance,English,2022,R,True,7.3,8.9
+C00457,Title_457,Series,Thriller,English,2022,TV-MA,False,8.1,13.09
+C00458,Title_458,Series,Reality TV,French,2018,TV-MA,False,5.6,33.13
+C00459,Title_459,Series,Drama,Korean,2017,R,False,5.7,1.5
+C00460,Title_460,Series,Action,Korean,2019,PG-13,False,5.7,25.11
+C00461,Title_461,Movie,Drama,German,2021,R,False,6.1,24.71
+C00462,Title_462,Series,Drama,English,2022,PG,False,6.5,4.37
+C00463,Title_463,Series,Action,Portuguese,2026,TV-MA,False,6.6,35.39
+C00464,Title_464,Series,Drama,Portuguese,2026,PG,False,8.1,17.55
+C00465,Title_465,Movie,Horror,Hindi,2018,TV-MA,False,7.1,17.22
+C00466,Title_466,Series,Reality TV,Spanish,2021,TV-MA,False,5.2,5.51
+C00467,Title_467,Series,Kids & Family,Japanese,2024,TV-MA,True,8.4,33.94
+C00468,Title_468,Series,Horror,Japanese,2020,TV-MA,True,6.2,10.76
+C00469,Title_469,Series,Sci-Fi,English,2020,PG-13,True,6.0,38.39
+C00470,Title_470,Movie,Thriller,English,2023,PG-13,True,5.7,5.43
+C00471,Title_471,Series,Drama,English,2025,G,True,6.9,0.63
+C00472,Title_472,Series,Thriller,English,2018,TV-MA,True,7.8,19.84
+C00473,Title_473,Series,Documentary,Hindi,2023,G,True,6.2,4.5
+C00474,Title_474,Series,Thriller,Hindi,2016,TV-MA,True,8.8,14.67
+C00475,Title_475,Movie,Crime,English,2019,TV-MA,False,9.3,2.17
+C00476,Title_476,Series,Documentary,Portuguese,2025,R,False,7.0,2.09
+C00477,Title_477,Series,Sci-Fi,English,2017,R,False,6.6,4.93
+C00478,Title_478,Movie,Documentary,German,2022,PG,True,7.0,0.33
+C00479,Title_479,Series,Kids & Family,Japanese,2016,TV-MA,False,6.6,6.36
+C00480,Title_480,Series,Horror,French,2015,PG-13,True,7.1,20.17
+C00481,Title_481,Movie,Anime,Japanese,2025,PG,False,7.9,4.9
+C00482,Title_482,Series,Action,Spanish,2019,PG-13,False,6.5,6.98
+C00483,Title_483,Series,Horror,Korean,2018,PG,False,8.1,3.64
+C00484,Title_484,Series,Romance,German,2015,TV-MA,True,7.9,11.94
+C00485,Title_485,Movie,Sci-Fi,English,2017,R,False,6.8,3.43
+C00486,Title_486,Movie,Reality TV,Japanese,2017,TV-MA,False,4.1,6.1
+C00487,Title_487,Movie,Sci-Fi,English,2017,PG,False,7.0,23.03
+C00488,Title_488,Movie,Action,Japanese,2016,R,False,7.1,2.15
+C00489,Title_489,Series,Documentary,English,2024,TV-MA,False,7.4,8.22
+C00490,Title_490,Movie,Drama,Hindi,2016,R,True,5.6,19.8
+C00491,Title_491,Series,Horror,Hindi,2025,G,False,7.4,3.3
+C00492,Title_492,Movie,Anime,English,2020,PG-13,True,8.2,14.05
+C00493,Title_493,Movie,Romance,Spanish,2026,PG-13,True,6.4,51.04
+C00494,Title_494,Series,Horror,Japanese,2015,R,False,6.4,2.18
+C00495,Title_495,Movie,Horror,Portuguese,2026,TV-MA,True,6.6,11.73
+C00496,Title_496,Series,Documentary,Japanese,2017,TV-MA,True,6.3,7.57
+C00497,Title_497,Movie,Crime,English,2018,PG-13,False,5.8,0.42
+C00498,Title_498,Movie,Horror,Japanese,2024,R,False,7.5,0.93
+C00499,Title_499,Series,Crime,Portuguese,2025,R,False,5.6,2.13
+C00500,Title_500,Series,Sci-Fi,Spanish,2026,PG-13,True,7.2,21.29
+C00501,Title_501,Movie,Reality TV,Japanese,2026,PG-13,True,8.5,16.94
+C00502,Title_502,Series,Horror,English,2022,PG,False,8.0,7.2
+C00503,Title_503,Series,Sci-Fi,Japanese,2017,PG,False,7.7,41.63
+C00504,Title_504,Series,Documentary,English,2018,TV-MA,True,8.8,17.51
+C00505,Title_505,Movie,Horror,Japanese,2021,TV-MA,False,6.8,33.42
+C00506,Title_506,Movie,Drama,English,2025,TV-MA,False,7.5,18.88
+C00507,Title_507,Series,Sci-Fi,Spanish,2025,TV-MA,True,6.7,29.54
+C00508,Title_508,Movie,Kids & Family,English,2021,TV-MA,True,7.6,5.92
+C00509,Title_509,Series,Anime,Hindi,2019,PG-13,True,6.7,4.66
+C00510,Title_510,Series,Drama,Hindi,2024,PG,False,5.5,18.44
+C00511,Title_511,Movie,Sci-Fi,Portuguese,2024,G,True,7.1,4.6
+C00512,Title_512,Series,Horror,Korean,2022,PG-13,False,7.6,31.12
+C00513,Title_513,Series,Horror,English,2020,G,True,9.7,8.73
+C00514,Title_514,Series,Reality TV,English,2019,PG-13,False,8.9,17.82
+C00515,Title_515,Movie,Action,English,2023,TV-MA,False,7.4,13.24
+C00516,Title_516,Series,Comedy,Spanish,2026,TV-MA,True,5.4,8.83
+C00517,Title_517,Movie,Thriller,Portuguese,2020,TV-MA,False,6.7,12.25
+C00518,Title_518,Series,Reality TV,English,2017,TV-MA,False,6.8,32.7
+C00519,Title_519,Series,Sci-Fi,Korean,2019,G,True,7.5,0.53
+C00520,Title_520,Series,Horror,English,2022,R,True,6.7,4.77
+C00521,Title_521,Movie,Action,German,2020,PG,True,7.4,10.98
+C00522,Title_522,Movie,Kids & Family,Portuguese,2023,PG,False,6.5,9.26
+C00523,Title_523,Series,Comedy,Spanish,2026,PG-13,False,5.6,8.12
+C00524,Title_524,Series,Action,French,2023,TV-MA,False,6.3,3.68
+C00525,Title_525,Series,Drama,English,2026,TV-MA,False,7.4,4.7
+C00526,Title_526,Series,Anime,English,2020,TV-MA,False,7.3,32.25
+C00527,Title_527,Series,Romance,Portuguese,2025,R,False,6.6,5.15
+C00528,Title_528,Series,Documentary,Portuguese,2019,PG-13,False,5.6,11.09
+C00529,Title_529,Series,Sci-Fi,Spanish,2016,PG-13,True,8.5,6.54
+C00530,Title_530,Movie,Drama,English,2016,R,False,5.8,7.2
+C00531,Title_531,Movie,Drama,English,2022,TV-MA,False,9.3,23.07
+C00532,Title_532,Series,Horror,Japanese,2020,TV-MA,False,5.7,24.3
+C00533,Title_533,Movie,Horror,Hindi,2019,PG,False,9.1,13.94
+C00534,Title_534,Series,Thriller,English,2020,G,True,7.6,7.57
+C00535,Title_535,Series,Romance,Japanese,2022,TV-MA,False,5.6,4.46
+C00536,Title_536,Series,Sci-Fi,Korean,2020,R,True,6.4,0.15
+C00537,Title_537,Series,Reality TV,German,2023,R,False,7.1,3.2
+C00538,Title_538,Movie,Anime,German,2025,PG-13,False,8.0,8.74
+C00539,Title_539,Series,Thriller,English,2026,PG-13,True,7.2,25.14
+C00540,Title_540,Movie,Sci-Fi,English,2019,PG-13,False,6.2,0.36
+C00541,Title_541,Movie,Documentary,Spanish,2016,TV-MA,True,7.6,10.37
+C00542,Title_542,Series,Comedy,English,2018,TV-MA,False,7.7,4.1
+C00543,Title_543,Movie,Documentary,English,2018,PG-13,True,6.0,28.4
+C00544,Title_544,Movie,Horror,Japanese,2026,TV-MA,False,7.6,1.79
+C00545,Title_545,Movie,Drama,Japanese,2025,PG-13,False,7.3,6.45
+C00546,Title_546,Movie,Documentary,English,2023,PG,True,7.7,15.05
+C00547,Title_547,Movie,Reality TV,English,2025,PG-13,False,5.9,15.85
+C00548,Title_548,Series,Sci-Fi,Hindi,2019,G,True,7.1,9.9
+C00549,Title_549,Series,Sci-Fi,German,2025,TV-MA,False,8.9,1.19
+C00550,Title_550,Series,Reality TV,Korean,2022,R,False,6.6,13.88
+C00551,Title_551,Series,Romance,English,2016,PG,False,6.6,11.33
+C00552,Title_552,Series,Crime,German,2026,R,False,7.1,4.43
+C00553,Title_553,Series,Thriller,Portuguese,2020,TV-MA,False,6.2,25.04
+C00554,Title_554,Movie,Thriller,English,2023,G,False,7.0,8.04
+C00555,Title_555,Series,Thriller,English,2019,TV-MA,False,6.2,6.44
+C00556,Title_556,Movie,Reality TV,Hindi,2026,TV-MA,False,7.1,15.82
+C00557,Title_557,Series,Romance,Spanish,2026,PG-13,False,5.9,1.74
+C00558,Title_558,Movie,Romance,English,2020,PG-13,False,2.9,5.07
+C00559,Title_559,Series,Documentary,French,2022,PG-13,False,5.9,28.06
+C00560,Title_560,Series,Comedy,Japanese,2021,R,False,6.2,20.53
+C00561,Title_561,Series,Thriller,Korean,2026,TV-MA,False,8.0,15.88
+C00562,Title_562,Series,Horror,English,2026,TV-MA,True,5.7,27.87
+C00563,Title_563,Series,Crime,English,2021,PG-13,False,6.4,25.04
+C00564,Title_564,Movie,Romance,English,2019,TV-MA,True,8.2,3.44
+C00565,Title_565,Series,Kids & Family,Hindi,2026,R,False,9.1,13.34
+C00566,Title_566,Movie,Comedy,Hindi,2020,PG,True,4.6,2.51
+C00567,Title_567,Movie,Documentary,Korean,2017,PG,True,6.4,21.98
+C00568,Title_568,Series,Crime,Portuguese,2016,PG,False,8.5,5.38
+C00569,Title_569,Movie,Documentary,Hindi,2017,R,False,9.3,6.35
+C00570,Title_570,Series,Comedy,Spanish,2020,PG-13,False,6.5,4.88
+C00571,Title_571,Movie,Horror,English,2023,PG,True,5.9,3.84
+C00572,Title_572,Movie,Crime,Portuguese,2024,PG,True,4.9,1.11
+C00573,Title_573,Series,Drama,English,2020,TV-MA,True,7.1,43.59
+C00574,Title_574,Series,Comedy,English,2022,PG,True,5.7,19.95
+C00575,Title_575,Movie,Documentary,Spanish,2016,R,False,5.5,1.84
+C00576,Title_576,Series,Crime,English,2021,TV-MA,False,7.9,22.02
+C00577,Title_577,Series,Documentary,Portuguese,2020,PG-13,True,8.4,4.62
+C00578,Title_578,Series,Anime,German,2024,PG,False,7.4,11.31
+C00579,Title_579,Series,Documentary,Spanish,2020,PG,False,6.1,27.92
+C00580,Title_580,Movie,Drama,English,2026,G,False,6.9,15.75
+C00581,Title_581,Movie,Documentary,English,2023,R,False,5.2,5.05
+C00582,Title_582,Series,Documentary,Hindi,2018,R,False,6.3,5.57
+C00583,Title_583,Movie,Action,English,2017,PG-13,False,7.9,3.02
+C00584,Title_584,Series,Horror,English,2021,TV-MA,True,7.6,71.4
+C00585,Title_585,Series,Comedy,Korean,2024,G,False,7.7,11.43
+C00586,Title_586,Series,Crime,English,2018,G,False,6.5,2.25
+C00587,Title_587,Movie,Reality TV,Spanish,2015,R,True,8.0,10.08
+C00588,Title_588,Movie,Horror,French,2024,R,False,6.8,0.22
+C00589,Title_589,Series,Comedy,Hindi,2020,TV-MA,True,5.8,19.23
+C00590,Title_590,Series,Comedy,English,2021,TV-MA,False,6.1,6.35
+C00591,Title_591,Series,Thriller,Japanese,2024,G,False,8.8,1.23
+C00592,Title_592,Movie,Horror,English,2017,G,False,6.8,4.36
+C00593,Title_593,Series,Reality TV,English,2018,PG-13,False,5.7,14.18
+C00594,Title_594,Movie,Horror,Hindi,2019,TV-MA,False,6.6,13.08
+C00595,Title_595,Series,Crime,German,2023,TV-MA,True,8.4,40.06
+C00596,Title_596,Movie,Documentary,English,2023,TV-MA,False,7.0,13.92
+C00597,Title_597,Movie,Comedy,Hindi,2015,TV-MA,True,5.5,28.63
+C00598,Title_598,Series,Anime,Spanish,2021,PG-13,True,7.6,16.15
+C00599,Title_599,Series,Action,English,2025,PG-13,False,4.4,2.04
+C00600,Title_600,Movie,Thriller,Japanese,2019,PG-13,False,7.1,2.66
+C00601,Title_601,Movie,Drama,Korean,2016,PG,True,6.6,9.04
+C00602,Title_602,Movie,Reality TV,Portuguese,2021,TV-MA,True,7.3,14.17
+C00603,Title_603,Movie,Documentary,Japanese,2016,PG-13,True,7.3,14.26
+C00604,Title_604,Series,Reality TV,Hindi,2017,TV-MA,True,7.0,12.33
+C00605,Title_605,Series,Sci-Fi,Spanish,2021,TV-MA,True,6.3,3.37
+C00606,Title_606,Series,Thriller,German,2022,R,False,7.3,14.78
+C00607,Title_607,Series,Documentary,English,2026,TV-MA,False,7.5,6.22
+C00608,Title_608,Series,Thriller,Spanish,2015,PG,False,7.0,2.6
+C00609,Title_609,Movie,Kids & Family,French,2022,TV-MA,True,5.6,1.13
+C00610,Title_610,Movie,Sci-Fi,Japanese,2018,R,False,7.7,17.72
+C00611,Title_611,Movie,Reality TV,Japanese,2016,PG-13,True,7.7,43.5
+C00612,Title_612,Series,Kids & Family,French,2025,TV-MA,True,5.2,25.31
+C00613,Title_613,Series,Sci-Fi,Spanish,2016,PG-13,True,7.4,39.6
+C00614,Title_614,Movie,Sci-Fi,Hindi,2018,PG-13,False,6.7,1.29
+C00615,Title_615,Series,Sci-Fi,Hindi,2018,PG-13,False,7.7,26.75
+C00616,Title_616,Movie,Sci-Fi,Spanish,2018,R,False,7.2,1.46
+C00617,Title_617,Series,Crime,English,2025,TV-MA,False,7.1,11.54
+C00618,Title_618,Movie,Anime,German,2023,R,True,7.5,9.39
+C00619,Title_619,Series,Thriller,English,2017,PG-13,True,6.3,3.15
+C00620,Title_620,Movie,Comedy,German,2024,PG-13,False,6.3,25.62
+C00621,Title_621,Series,Documentary,Spanish,2022,PG-13,False,6.8,11.41
+C00622,Title_622,Series,Crime,English,2021,R,False,6.9,46.62
+C00623,Title_623,Series,Drama,English,2018,PG-13,False,5.2,9.79
+C00624,Title_624,Movie,Action,Portuguese,2020,PG-13,False,8.0,3.67
+C00625,Title_625,Series,Drama,English,2018,G,True,5.9,13.82
+C00626,Title_626,Movie,Kids & Family,Portuguese,2026,TV-MA,False,6.5,38.31
+C00627,Title_627,Movie,Romance,English,2021,R,True,6.6,6.9
+C00628,Title_628,Series,Sci-Fi,Korean,2025,G,False,7.8,7.24
+C00629,Title_629,Series,Drama,Korean,2025,PG,False,8.0,1.84
+C00630,Title_630,Series,Reality TV,Hindi,2025,PG-13,False,6.1,6.31
+C00631,Title_631,Movie,Horror,Japanese,2016,R,False,8.6,25.07
+C00632,Title_632,Series,Kids & Family,English,2023,R,False,7.6,4.28
+C00633,Title_633,Series,Thriller,English,2017,R,True,8.2,7.01
+C00634,Title_634,Series,Kids & Family,English,2024,TV-MA,True,6.7,21.36
+C00635,Title_635,Series,Horror,English,2022,TV-MA,False,7.2,3.46
+C00636,Title_636,Series,Reality TV,Spanish,2026,G,False,8.4,41.67
+C00637,Title_637,Series,Horror,English,2019,TV-MA,False,7.9,26.44
+C00638,Title_638,Series,Horror,English,2021,PG,True,6.4,10.08
+C00639,Title_639,Series,Reality TV,English,2015,PG-13,True,6.7,18.6
+C00640,Title_640,Movie,Horror,French,2020,TV-MA,True,6.3,5.33
+C00641,Title_641,Movie,Thriller,English,2024,R,False,7.2,1.11
+C00642,Title_642,Series,Thriller,Spanish,2026,PG,False,5.4,25.55
+C00643,Title_643,Movie,Crime,English,2020,R,False,7.5,0.36
+C00644,Title_644,Movie,Kids & Family,English,2018,PG-13,True,6.5,17.77
+C00645,Title_645,Movie,Drama,German,2024,TV-MA,False,9.2,6.89
+C00646,Title_646,Movie,Anime,Spanish,2026,PG-13,False,5.4,1.27
+C00647,Title_647,Series,Drama,Korean,2021,TV-MA,False,7.3,31.96
+C00648,Title_648,Movie,Documentary,Korean,2018,G,False,6.3,10.32
+C00649,Title_649,Movie,Sci-Fi,English,2016,R,False,7.3,1.22
+C00650,Title_650,Series,Anime,German,2015,PG,False,7.1,3.85
+C00651,Title_651,Movie,Comedy,German,2019,PG-13,False,5.4,8.22
+C00652,Title_652,Movie,Kids & Family,French,2022,PG-13,False,8.0,16.08
+C00653,Title_653,Series,Reality TV,Spanish,2015,PG-13,False,8.1,4.16
+C00654,Title_654,Series,Reality TV,Spanish,2016,TV-MA,False,8.6,18.39
+C00655,Title_655,Movie,Anime,Hindi,2025,TV-MA,False,7.3,5.07
+C00656,Title_656,Movie,Anime,Portuguese,2024,PG-13,False,6.9,26.89
+C00657,Title_657,Movie,Kids & Family,Hindi,2015,TV-MA,True,8.0,2.38
+C00658,Title_658,Series,Horror,English,2025,TV-MA,False,8.4,46.87
+C00659,Title_659,Movie,Documentary,English,2023,PG-13,False,6.7,0.4
+C00660,Title_660,Movie,Horror,English,2018,PG-13,True,5.8,42.62
+C00661,Title_661,Movie,Reality TV,French,2019,PG-13,False,6.5,47.39
+C00662,Title_662,Movie,Kids & Family,Japanese,2023,TV-MA,False,6.6,8.02
+C00663,Title_663,Series,Crime,Japanese,2018,R,True,8.3,17.17
+C00664,Title_664,Movie,Action,Hindi,2019,G,False,5.5,13.86
+C00665,Title_665,Movie,Sci-Fi,English,2026,PG-13,True,6.9,26.04
+C00666,Title_666,Series,Romance,Japanese,2025,R,True,6.8,3.83
+C00667,Title_667,Series,Romance,Portuguese,2023,TV-MA,True,7.1,37.95
+C00668,Title_668,Series,Action,English,2016,G,False,6.3,7.11
+C00669,Title_669,Series,Anime,English,2025,G,True,8.5,2.99
+C00670,Title_670,Series,Thriller,Hindi,2021,PG-13,False,6.4,0.74
+C00671,Title_671,Series,Documentary,English,2024,R,True,7.1,2.38
+C00672,Title_672,Series,Documentary,Hindi,2018,PG-13,True,7.9,0.43
+C00673,Title_673,Series,Documentary,Spanish,2024,R,True,4.2,12.12
+C00674,Title_674,Movie,Drama,English,2016,TV-MA,True,7.2,7.05
+C00675,Title_675,Series,Romance,English,2019,TV-MA,True,7.0,1.91
+C00676,Title_676,Series,Sci-Fi,English,2025,PG-13,True,5.9,29.0
+C00677,Title_677,Series,Documentary,French,2019,TV-MA,True,6.8,2.01
+C00678,Title_678,Series,Romance,Hindi,2023,PG-13,False,4.2,27.31
+C00679,Title_679,Movie,Action,Portuguese,2019,R,True,7.1,23.68
+C00680,Title_680,Series,Horror,Korean,2019,PG,False,8.2,3.34
+C00681,Title_681,Series,Kids & Family,Japanese,2024,PG,False,7.7,18.42
+C00682,Title_682,Series,Documentary,French,2026,R,False,6.6,2.92
+C00683,Title_683,Series,Action,Korean,2016,R,False,3.9,13.07
+C00684,Title_684,Series,Action,German,2025,TV-MA,False,8.6,3.55
+C00685,Title_685,Series,Romance,Portuguese,2016,TV-MA,False,5.3,24.02
+C00686,Title_686,Movie,Crime,Portuguese,2019,TV-MA,True,7.9,30.51
+C00687,Title_687,Movie,Thriller,English,2018,PG-13,False,6.9,48.66
+C00688,Title_688,Series,Romance,German,2026,PG,True,7.2,2.13
+C00689,Title_689,Movie,Horror,French,2022,G,False,5.5,5.39
+C00690,Title_690,Movie,Romance,Japanese,2020,TV-MA,False,9.1,8.11
+C00691,Title_691,Series,Anime,Spanish,2015,TV-MA,False,5.8,0.55
+C00692,Title_692,Series,Sci-Fi,French,2021,TV-MA,False,4.9,2.65
+C00693,Title_693,Series,Documentary,English,2022,R,True,8.2,3.16
+C00694,Title_694,Movie,Reality TV,German,2023,R,False,5.6,9.2
+C00695,Title_695,Movie,Drama,German,2018,G,False,5.1,4.68
+C00696,Title_696,Series,Drama,English,2018,TV-MA,False,6.1,0.83
+C00697,Title_697,Movie,Comedy,English,2020,TV-MA,False,7.2,5.48
+C00698,Title_698,Series,Sci-Fi,Spanish,2015,PG,True,8.3,16.8
+C00699,Title_699,Movie,Documentary,French,2016,G,False,6.4,43.12
+C00700,Title_700,Series,Crime,French,2023,PG-13,True,7.6,0.76
+C00701,Title_701,Series,Comedy,Hindi,2020,TV-MA,False,6.0,4.61
+C00702,Title_702,Movie,Thriller,Korean,2019,R,True,6.7,1.32
+C00703,Title_703,Series,Thriller,Spanish,2018,R,False,6.8,42.85
+C00704,Title_704,Series,Romance,Japanese,2021,PG-13,False,6.9,37.36
+C00705,Title_705,Movie,Anime,German,2017,PG,True,6.0,19.31
+C00706,Title_706,Movie,Crime,English,2024,PG-13,False,9.2,35.14
+C00707,Title_707,Movie,Comedy,Portuguese,2018,G,False,6.7,5.14
+C00708,Title_708,Series,Horror,English,2019,R,False,6.4,52.83
+C00709,Title_709,Movie,Horror,English,2015,PG-13,False,7.2,5.51
+C00710,Title_710,Series,Kids & Family,German,2024,PG-13,False,4.8,7.64
+C00711,Title_711,Movie,Reality TV,Hindi,2019,TV-MA,True,7.7,30.65
+C00712,Title_712,Movie,Romance,French,2022,PG,False,7.2,2.88
+C00713,Title_713,Series,Romance,English,2017,PG-13,False,8.0,14.72
+C00714,Title_714,Series,Documentary,English,2021,PG,False,6.0,11.61
+C00715,Title_715,Series,Kids & Family,English,2018,PG-13,False,5.5,2.6
+C00716,Title_716,Movie,Drama,Spanish,2020,R,False,6.4,8.48
+C00717,Title_717,Movie,Documentary,Spanish,2021,R,False,6.4,26.63
+C00718,Title_718,Series,Action,German,2025,R,False,7.7,23.22
+C00719,Title_719,Series,Romance,English,2017,PG-13,False,7.5,26.05
+C00720,Title_720,Series,Drama,Portuguese,2019,PG-13,True,4.4,16.3
+C00721,Title_721,Movie,Anime,English,2016,G,True,7.9,8.33
+C00722,Title_722,Series,Reality TV,English,2022,TV-MA,False,7.9,17.32
+C00723,Title_723,Movie,Crime,English,2022,R,False,7.3,1.42
+C00724,Title_724,Movie,Action,English,2020,PG,False,7.4,30.22
+C00725,Title_725,Movie,Drama,Korean,2017,PG-13,True,8.4,42.69
+C00726,Title_726,Series,Action,English,2025,PG-13,False,5.0,15.95
+C00727,Title_727,Series,Reality TV,French,2019,R,True,5.9,27.64
+C00728,Title_728,Movie,Sci-Fi,English,2022,PG,True,8.7,0.39
+C00729,Title_729,Series,Anime,German,2024,G,True,7.2,9.17
+C00730,Title_730,Movie,Crime,Portuguese,2020,G,False,6.3,6.8
+C00731,Title_731,Series,Action,Spanish,2026,PG-13,True,8.1,1.27
+C00732,Title_732,Series,Horror,French,2022,R,False,7.1,27.18
+C00733,Title_733,Series,Documentary,Korean,2021,PG,True,5.8,42.15
+C00734,Title_734,Series,Romance,Hindi,2024,TV-MA,False,7.5,20.44
+C00735,Title_735,Movie,Thriller,German,2022,PG-13,False,6.4,7.82
+C00736,Title_736,Series,Crime,Spanish,2019,PG-13,False,4.4,11.5
+C00737,Title_737,Movie,Comedy,Hindi,2016,PG-13,False,5.2,4.54
+C00738,Title_738,Series,Anime,Hindi,2021,PG,False,7.9,13.56
+C00739,Title_739,Series,Drama,German,2024,PG,False,7.1,25.82
+C00740,Title_740,Series,Thriller,English,2018,PG,False,6.0,21.95
+C00741,Title_741,Movie,Romance,Portuguese,2026,PG-13,True,5.1,28.26
+C00742,Title_742,Movie,Anime,Korean,2023,R,False,7.1,1.43
+C00743,Title_743,Series,Horror,Portuguese,2016,TV-MA,True,7.6,7.26
+C00744,Title_744,Movie,Reality TV,English,2016,PG-13,False,6.1,38.29
+C00745,Title_745,Series,Comedy,English,2015,PG,True,7.9,17.02
+C00746,Title_746,Series,Documentary,Japanese,2017,PG-13,False,7.0,2.42
+C00747,Title_747,Movie,Drama,Hindi,2022,PG,True,7.0,17.29
+C00748,Title_748,Movie,Crime,Japanese,2019,TV-MA,True,6.2,10.81
+C00749,Title_749,Movie,Crime,English,2017,G,False,5.2,13.75
+C00750,Title_750,Movie,Documentary,Japanese,2024,G,True,7.5,42.42
+C00751,Title_751,Movie,Comedy,English,2015,PG,True,8.0,11.1
+C00752,Title_752,Series,Drama,Hindi,2025,TV-MA,False,6.9,27.38
+C00753,Title_753,Movie,Thriller,French,2026,TV-MA,False,7.3,7.46
+C00754,Title_754,Series,Comedy,English,2023,G,False,8.1,11.7
+C00755,Title_755,Series,Kids & Family,English,2026,PG,True,7.7,19.01
+C00756,Title_756,Series,Anime,Hindi,2023,TV-MA,False,6.3,29.73
+C00757,Title_757,Series,Anime,Spanish,2026,G,False,8.2,14.9
+C00758,Title_758,Series,Romance,Hindi,2016,G,False,6.1,23.22
+C00759,Title_759,Movie,Reality TV,English,2021,PG-13,False,8.7,37.63
+C00760,Title_760,Series,Thriller,English,2022,R,True,6.6,9.14
+C00761,Title_761,Movie,Crime,Spanish,2016,TV-MA,True,6.9,19.04
+C00762,Title_762,Series,Thriller,English,2018,PG-13,True,5.3,22.71
+C00763,Title_763,Series,Thriller,Spanish,2020,R,True,4.2,13.08
+C00764,Title_764,Series,Action,German,2025,R,False,6.9,16.61
+C00765,Title_765,Movie,Sci-Fi,English,2017,G,False,6.3,21.26
+C00766,Title_766,Series,Action,German,2023,PG-13,True,5.5,21.17
+C00767,Title_767,Series,Sci-Fi,Japanese,2025,TV-MA,True,7.4,33.1
+C00768,Title_768,Series,Romance,Portuguese,2015,TV-MA,False,8.1,3.04
+C00769,Title_769,Movie,Drama,English,2016,TV-MA,True,6.6,7.99
+C00770,Title_770,Series,Action,Portuguese,2016,R,False,7.4,26.65
+C00771,Title_771,Movie,Anime,Hindi,2026,TV-MA,False,8.6,2.66
+C00772,Title_772,Series,Sci-Fi,Hindi,2017,TV-MA,False,7.8,6.74
+C00773,Title_773,Series,Drama,Spanish,2022,TV-MA,False,8.0,29.25
+C00774,Title_774,Movie,Horror,Portuguese,2020,TV-MA,True,6.0,22.21
+C00775,Title_775,Movie,Anime,English,2022,TV-MA,False,6.5,51.27
+C00776,Title_776,Movie,Crime,French,2019,G,False,8.0,11.3
+C00777,Title_777,Series,Romance,Korean,2022,R,False,7.4,18.05
+C00778,Title_778,Series,Thriller,English,2019,R,True,8.3,2.14
+C00779,Title_779,Series,Drama,English,2023,PG-13,False,6.4,59.72
+C00780,Title_780,Series,Horror,Japanese,2021,R,False,6.3,3.3
+C00781,Title_781,Series,Reality TV,Hindi,2019,G,True,7.4,51.26
+C00782,Title_782,Series,Action,English,2026,TV-MA,False,6.1,44.29
+C00783,Title_783,Series,Horror,English,2017,PG-13,False,8.2,0.01
+C00784,Title_784,Series,Crime,German,2021,PG,False,5.9,10.01
+C00785,Title_785,Movie,Sci-Fi,Korean,2017,PG,False,7.9,9.06
+C00786,Title_786,Series,Reality TV,French,2019,TV-MA,False,7.6,11.57
+C00787,Title_787,Movie,Romance,Japanese,2017,PG-13,True,7.8,15.15
+C00788,Title_788,Movie,Anime,Korean,2026,PG-13,False,6.9,55.68
+C00789,Title_789,Movie,Comedy,English,2019,PG,True,5.5,3.74
+C00790,Title_790,Movie,Comedy,Korean,2023,PG-13,True,7.5,15.7
+C00791,Title_791,Series,Reality TV,French,2026,TV-MA,False,6.4,3.28
+C00792,Title_792,Series,Drama,English,2026,TV-MA,False,7.7,30.18
+C00793,Title_793,Series,Thriller,English,2019,R,False,3.9,38.45
+C00794,Title_794,Series,Reality TV,Spanish,2020,G,True,7.9,2.3
+C00795,Title_795,Movie,Action,Hindi,2021,PG-13,False,8.1,5.64
+C00796,Title_796,Movie,Horror,English,2023,R,True,6.5,0.88
+C00797,Title_797,Series,Thriller,Spanish,2017,G,True,6.9,24.6
+C00798,Title_798,Series,Horror,English,2018,TV-MA,True,6.3,2.21
+C00799,Title_799,Movie,Crime,English,2019,R,True,5.4,4.83
+C00800,Title_800,Series,Crime,Spanish,2015,PG,True,5.9,6.03
+C00801,Title_801,Series,Horror,English,2022,PG,False,7.2,6.69
+C00802,Title_802,Series,Reality TV,English,2016,PG,False,7.9,10.57
+C00803,Title_803,Series,Drama,Spanish,2023,R,False,6.9,13.62
+C00804,Title_804,Series,Romance,Korean,2020,PG,False,6.2,23.19
+C00805,Title_805,Series,Comedy,Hindi,2023,PG-13,False,6.0,3.6
+C00806,Title_806,Series,Reality TV,Japanese,2026,PG,True,8.2,21.18
+C00807,Title_807,Movie,Comedy,English,2026,G,False,7.6,2.18
+C00808,Title_808,Series,Sci-Fi,Hindi,2020,TV-MA,False,9.5,36.48
+C00809,Title_809,Movie,Sci-Fi,Japanese,2023,PG,False,8.2,6.61
+C00810,Title_810,Series,Romance,Japanese,2021,PG,False,6.9,25.43
+C00811,Title_811,Movie,Drama,Korean,2019,TV-MA,True,5.7,4.84
+C00812,Title_812,Movie,Comedy,English,2018,PG,True,5.6,10.36
+C00813,Title_813,Movie,Thriller,Korean,2022,R,False,7.8,12.75
+C00814,Title_814,Series,Action,Spanish,2019,TV-MA,False,4.7,5.09
+C00815,Title_815,Series,Drama,Spanish,2025,PG,True,7.3,15.67
+C00816,Title_816,Movie,Horror,English,2020,TV-MA,False,5.4,0.46
+C00817,Title_817,Movie,Drama,Spanish,2024,PG,True,7.1,3.03
+C00818,Title_818,Series,Sci-Fi,French,2016,PG-13,True,6.2,47.6
+C00819,Title_819,Movie,Documentary,French,2021,PG-13,False,6.4,10.07
+C00820,Title_820,Movie,Romance,Hindi,2018,PG,False,7.8,23.55
+C00821,Title_821,Series,Crime,Hindi,2016,TV-MA,False,7.2,1.05
+C00822,Title_822,Series,Horror,English,2015,R,True,4.8,45.61
+C00823,Title_823,Series,Kids & Family,English,2017,PG-13,False,5.3,11.76
+C00824,Title_824,Series,Reality TV,German,2023,TV-MA,False,6.9,21.56
+C00825,Title_825,Series,Horror,English,2017,R,False,5.8,16.32
+C00826,Title_826,Movie,Romance,Hindi,2025,PG-13,False,8.2,52.15
+C00827,Title_827,Series,Action,English,2019,PG-13,False,7.0,25.69
+C00828,Title_828,Series,Documentary,Hindi,2023,PG-13,False,8.3,33.15
+C00829,Title_829,Movie,Documentary,English,2024,TV-MA,False,6.0,7.48
+C00830,Title_830,Series,Anime,English,2018,TV-MA,False,8.3,13.61
+C00831,Title_831,Series,Kids & Family,German,2024,G,True,7.4,14.18
+C00832,Title_832,Movie,Anime,Hindi,2025,G,False,8.1,3.39
+C00833,Title_833,Series,Thriller,Korean,2024,TV-MA,False,8.0,0.33
+C00834,Title_834,Series,Kids & Family,Hindi,2024,TV-MA,True,8.3,14.41
+C00835,Title_835,Movie,Action,English,2016,TV-MA,False,7.0,6.81
+C00836,Title_836,Series,Drama,English,2016,TV-MA,False,8.7,9.86
+C00837,Title_837,Series,Action,Portuguese,2023,TV-MA,False,7.6,0.22
+C00838,Title_838,Series,Reality TV,English,2022,R,False,7.5,29.6
+C00839,Title_839,Movie,Crime,English,2024,PG-13,False,8.0,2.11
+C00840,Title_840,Series,Comedy,Korean,2015,TV-MA,False,7.7,6.42
+C00841,Title_841,Series,Comedy,English,2024,PG,False,6.7,7.78
+C00842,Title_842,Movie,Sci-Fi,English,2021,PG-13,True,7.5,23.78
+C00843,Title_843,Series,Crime,English,2021,PG-13,True,6.3,11.7
+C00844,Title_844,Movie,Thriller,English,2019,PG-13,False,9.1,2.12
+C00845,Title_845,Movie,Crime,Korean,2015,PG-13,False,8.3,0.1
+C00846,Title_846,Series,Action,English,2017,PG,False,7.9,10.71
+C00847,Title_847,Movie,Thriller,French,2019,G,True,8.0,0.59
+C00848,Title_848,Series,Anime,English,2026,PG-13,True,7.1,8.04
+C00849,Title_849,Series,Romance,English,2023,PG-13,True,8.8,37.06
+C00850,Title_850,Movie,Sci-Fi,Japanese,2024,PG-13,False,7.5,16.72
+C00851,Title_851,Movie,Action,Japanese,2024,G,False,6.0,8.58
+C00852,Title_852,Series,Crime,English,2021,TV-MA,False,5.1,12.49
+C00853,Title_853,Series,Thriller,Japanese,2017,TV-MA,False,5.7,11.54
+C00854,Title_854,Movie,Anime,Korean,2023,TV-MA,True,6.0,9.02
+C00855,Title_855,Series,Sci-Fi,English,2021,TV-MA,True,7.3,6.99
+C00856,Title_856,Movie,Anime,Japanese,2016,TV-MA,True,8.5,1.09
+C00857,Title_857,Series,Reality TV,Japanese,2025,PG,True,8.1,42.96
+C00858,Title_858,Movie,Action,English,2025,TV-MA,False,7.4,2.61
+C00859,Title_859,Series,Documentary,Spanish,2015,PG,True,4.7,23.89
+C00860,Title_860,Movie,Drama,Hindi,2022,R,False,8.8,60.75
+C00861,Title_861,Movie,Action,Japanese,2015,G,True,6.4,3.74
+C00862,Title_862,Movie,Romance,English,2023,PG,False,8.3,9.92
+C00863,Title_863,Movie,Romance,Portuguese,2015,G,False,5.3,9.57
+C00864,Title_864,Series,Anime,German,2021,TV-MA,False,6.4,20.91
+C00865,Title_865,Series,Crime,English,2023,G,False,6.6,8.95
+C00866,Title_866,Movie,Anime,French,2019,R,False,6.8,7.47
+C00867,Title_867,Movie,Action,German,2024,R,False,5.8,24.03
+C00868,Title_868,Movie,Action,Korean,2016,TV-MA,True,9.8,0.12
+C00869,Title_869,Series,Comedy,English,2026,G,False,4.5,6.77
+C00870,Title_870,Series,Action,Portuguese,2026,PG-13,True,5.2,4.38
+C00871,Title_871,Series,Comedy,Japanese,2021,TV-MA,False,5.9,1.79
+C00872,Title_872,Series,Reality TV,English,2021,TV-MA,True,5.8,4.81
+C00873,Title_873,Series,Romance,English,2015,PG,False,7.0,15.25
+C00874,Title_874,Series,Anime,English,2026,PG-13,True,6.5,10.35
+C00875,Title_875,Movie,Action,English,2018,TV-MA,False,5.5,56.72
+C00876,Title_876,Series,Sci-Fi,English,2024,PG-13,False,5.3,23.13
+C00877,Title_877,Series,Drama,English,2022,TV-MA,True,6.0,14.42
+C00878,Title_878,Series,Thriller,English,2016,TV-MA,False,6.0,29.3
+C00879,Title_879,Movie,Drama,English,2025,PG,False,7.3,4.95
+C00880,Title_880,Series,Drama,English,2019,TV-MA,False,8.2,0.14
+C00881,Title_881,Series,Romance,English,2024,R,True,6.7,6.65
+C00882,Title_882,Movie,Kids & Family,German,2015,PG,True,8.7,18.04
+C00883,Title_883,Movie,Drama,Hindi,2025,PG,False,5.4,11.87
+C00884,Title_884,Movie,Action,French,2026,G,False,6.2,29.64
+C00885,Title_885,Movie,Thriller,English,2016,R,True,7.0,16.5
+C00886,Title_886,Movie,Sci-Fi,English,2024,PG-13,False,6.1,5.0
+C00887,Title_887,Movie,Sci-Fi,English,2018,PG,False,5.4,8.52
+C00888,Title_888,Movie,Sci-Fi,Portuguese,2025,TV-MA,False,7.1,3.06
+C00889,Title_889,Series,Anime,English,2017,TV-MA,False,6.6,17.76
+C00890,Title_890,Series,Anime,Spanish,2024,TV-MA,True,8.7,4.9
+C00891,Title_891,Movie,Kids & Family,English,2026,PG,False,6.2,8.0
+C00892,Title_892,Series,Anime,English,2017,PG-13,False,7.3,0.97
+C00893,Title_893,Series,Drama,English,2026,R,False,7.8,3.34
+C00894,Title_894,Movie,Comedy,French,2017,G,True,9.4,18.54
+C00895,Title_895,Series,Comedy,French,2024,PG,False,7.3,72.04
+C00896,Title_896,Series,Romance,English,2015,PG,False,7.2,8.45
+C00897,Title_897,Series,Anime,Hindi,2026,TV-MA,False,6.1,8.67
+C00898,Title_898,Series,Drama,Portuguese,2021,TV-MA,False,4.9,11.26
+C00899,Title_899,Movie,Documentary,Portuguese,2019,G,False,6.8,4.65
+C00900,Title_900,Series,Thriller,Hindi,2026,TV-MA,False,5.1,0.05
+C00901,Title_901,Movie,Thriller,German,2015,PG-13,False,7.4,29.09
+C00902,Title_902,Series,Horror,Japanese,2016,PG-13,False,7.5,3.79
+C00903,Title_903,Series,Anime,English,2024,PG-13,False,6.3,7.41
+C00904,Title_904,Series,Anime,English,2020,PG,False,7.0,10.85
+C00905,Title_905,Movie,Horror,Portuguese,2020,PG-13,True,6.0,21.82
+C00906,Title_906,Series,Sci-Fi,Japanese,2026,PG-13,False,6.9,5.74
+C00907,Title_907,Movie,Documentary,Portuguese,2023,G,True,7.3,3.17
+C00908,Title_908,Series,Reality TV,English,2023,G,False,7.0,21.29
+C00909,Title_909,Movie,Sci-Fi,French,2022,TV-MA,False,6.9,3.75
+C00910,Title_910,Series,Romance,Hindi,2017,R,False,6.6,20.72
+C00911,Title_911,Movie,Drama,Japanese,2019,G,False,8.6,12.94
+C00912,Title_912,Movie,Reality TV,Korean,2022,TV-MA,False,7.7,3.68
+C00913,Title_913,Movie,Drama,English,2022,PG,False,4.8,35.21
+C00914,Title_914,Movie,Comedy,English,2020,TV-MA,False,6.7,3.83
+C00915,Title_915,Movie,Anime,Korean,2023,TV-MA,False,6.1,32.93
+C00916,Title_916,Movie,Horror,German,2025,PG-13,False,7.0,14.88
+C00917,Title_917,Series,Comedy,German,2019,R,False,5.0,32.41
+C00918,Title_918,Movie,Drama,Hindi,2021,R,True,4.8,6.8
+C00919,Title_919,Movie,Romance,English,2024,G,True,6.4,39.31
+C00920,Title_920,Series,Comedy,Spanish,2025,PG-13,False,7.8,4.1
+C00921,Title_921,Series,Kids & Family,French,2023,R,True,6.6,3.38
+C00922,Title_922,Series,Comedy,German,2021,TV-MA,False,5.0,5.56
+C00923,Title_923,Series,Documentary,Spanish,2026,PG-13,False,5.6,10.27
+C00924,Title_924,Series,Crime,Spanish,2018,R,True,7.6,2.23
+C00925,Title_925,Series,Horror,German,2022,R,False,5.1,24.58
+C00926,Title_926,Movie,Thriller,German,2017,G,False,6.0,5.44
+C00927,Title_927,Movie,Kids & Family,English,2021,PG-13,False,5.6,1.58
+C00928,Title_928,Series,Sci-Fi,German,2018,PG-13,True,6.9,3.66
+C00929,Title_929,Series,Thriller,Japanese,2022,TV-MA,False,6.1,6.23
+C00930,Title_930,Movie,Reality TV,Spanish,2018,TV-MA,False,7.5,29.62
+C00931,Title_931,Series,Kids & Family,English,2016,TV-MA,False,6.8,11.31
+C00932,Title_932,Movie,Drama,German,2017,G,False,6.5,29.19
+C00933,Title_933,Movie,Drama,Portuguese,2025,PG-13,True,5.5,2.19
+C00934,Title_934,Series,Kids & Family,English,2023,R,False,6.1,11.42
+C00935,Title_935,Movie,Action,Hindi,2015,R,False,6.8,6.55
+C00936,Title_936,Movie,Reality TV,Hindi,2021,PG,True,6.3,16.15
+C00937,Title_937,Series,Sci-Fi,German,2026,PG-13,False,6.4,7.22
+C00938,Title_938,Movie,Action,German,2022,PG-13,False,6.2,3.92
+C00939,Title_939,Series,Horror,English,2019,PG-13,True,7.4,2.2
+C00940,Title_940,Series,Thriller,English,2025,TV-MA,True,5.1,8.13
+C00941,Title_941,Movie,Comedy,Portuguese,2026,TV-MA,True,8.9,21.01
+C00942,Title_942,Series,Sci-Fi,English,2019,PG-13,False,5.8,4.3
+C00943,Title_943,Movie,Sci-Fi,German,2024,PG-13,False,4.2,54.48
+C00944,Title_944,Series,Thriller,English,2021,G,True,9.1,5.55
+C00945,Title_945,Movie,Kids & Family,Hindi,2026,PG,False,7.3,7.55
+C00946,Title_946,Movie,Romance,English,2024,R,False,7.1,10.75
+C00947,Title_947,Movie,Documentary,German,2024,TV-MA,True,6.9,16.62
+C00948,Title_948,Series,Documentary,Japanese,2016,PG-13,False,7.2,13.68
+C00949,Title_949,Series,Action,Japanese,2023,PG-13,False,7.8,0.25
+C00950,Title_950,Movie,Documentary,Spanish,2019,R,False,6.4,43.06
+C00951,Title_951,Movie,Comedy,French,2020,PG,False,6.2,0.33
+C00952,Title_952,Movie,Action,German,2018,PG-13,True,7.1,0.63
+C00953,Title_953,Movie,Documentary,Spanish,2020,R,True,8.0,9.46
+C00954,Title_954,Series,Sci-Fi,Japanese,2025,PG,True,6.5,8.57
+C00955,Title_955,Movie,Reality TV,Korean,2024,PG,False,5.3,1.86
+C00956,Title_956,Movie,Comedy,English,2024,PG-13,True,6.2,15.19
+C00957,Title_957,Movie,Drama,German,2025,PG-13,True,6.2,23.96
+C00958,Title_958,Movie,Action,French,2015,R,True,7.5,1.16
+C00959,Title_959,Series,Sci-Fi,Portuguese,2026,TV-MA,True,6.2,44.62
+C00960,Title_960,Series,Drama,Korean,2025,R,False,9.1,16.59
+C00961,Title_961,Series,Reality TV,Hindi,2026,TV-MA,False,6.6,12.94
+C00962,Title_962,Movie,Comedy,Japanese,2020,R,False,5.4,17.13
+C00963,Title_963,Series,Anime,Korean,2026,PG,True,9.7,0.27
+C00964,Title_964,Series,Anime,Korean,2023,TV-MA,False,6.0,10.08
+C00965,Title_965,Movie,Thriller,Japanese,2020,PG,True,7.4,17.94
+C00966,Title_966,Series,Thriller,Hindi,2024,G,True,6.4,26.2
+C00967,Title_967,Series,Documentary,German,2020,PG-13,True,5.6,30.96
+C00968,Title_968,Movie,Documentary,English,2017,PG,True,7.1,47.42
+C00969,Title_969,Movie,Kids & Family,English,2023,PG,True,6.8,25.77
+C00970,Title_970,Series,Comedy,English,2026,TV-MA,False,6.0,0.49
+C00971,Title_971,Movie,Kids & Family,Hindi,2026,R,False,5.9,37.04
+C00972,Title_972,Movie,Drama,English,2016,R,False,8.0,6.7
+C00973,Title_973,Movie,Drama,Portuguese,2016,PG,False,7.4,10.69
+C00974,Title_974,Series,Thriller,Hindi,2021,PG,True,7.0,22.63
+C00975,Title_975,Series,Thriller,English,2015,PG-13,False,6.9,7.92
+C00976,Title_976,Series,Action,Japanese,2019,TV-MA,True,7.4,1.38
+C00977,Title_977,Movie,Horror,German,2016,TV-MA,False,6.6,16.69
+C00978,Title_978,Movie,Thriller,Hindi,2022,TV-MA,False,6.0,37.77
+C00979,Title_979,Movie,Documentary,English,2016,TV-MA,True,7.4,18.89
+C00980,Title_980,Movie,Comedy,Korean,2024,PG,False,5.8,2.15
+C00981,Title_981,Series,Kids & Family,Spanish,2019,TV-MA,False,4.7,16.32
+C00982,Title_982,Movie,Horror,Spanish,2023,R,True,7.2,21.11
+C00983,Title_983,Movie,Comedy,English,2023,TV-MA,True,5.2,27.14
+C00984,Title_984,Movie,Kids & Family,English,2018,R,True,5.5,11.22
+C00985,Title_985,Movie,Reality TV,English,2024,TV-MA,False,5.2,12.32
+C00986,Title_986,Series,Documentary,English,2020,TV-MA,False,6.9,8.25
+C00987,Title_987,Series,Action,English,2018,PG,True,8.0,45.26
+C00988,Title_988,Series,Drama,English,2024,TV-MA,False,7.2,4.67
+C00989,Title_989,Series,Crime,Spanish,2026,TV-MA,True,5.7,16.08
+C00990,Title_990,Series,Anime,Portuguese,2023,G,False,7.2,31.25
+C00991,Title_991,Series,Reality TV,French,2017,TV-MA,False,4.8,49.1
+C00992,Title_992,Series,Documentary,German,2019,PG-13,False,8.2,23.91
+C00993,Title_993,Movie,Horror,Japanese,2019,PG,True,4.8,28.07
+C00994,Title_994,Series,Crime,Hindi,2017,TV-MA,False,7.5,7.25
+C00995,Title_995,Series,Thriller,English,2024,PG,False,5.6,21.52
+C00996,Title_996,Movie,Anime,German,2018,G,False,6.4,41.24
+C00997,Title_997,Series,Kids & Family,Spanish,2021,PG-13,False,9.6,21.94
+C00998,Title_998,Series,Action,English,2021,TV-MA,True,6.6,0.95
+C00999,Title_999,Movie,Kids & Family,Spanish,2018,TV-MA,False,6.6,24.85
+C01000,Title_1000,Series,Sci-Fi,Spanish,2017,TV-MA,False,7.1,11.21
+C01001,Title_1001,Series,Anime,Spanish,2026,G,False,7.6,1.84
+C01002,Title_1002,Series,Documentary,English,2020,PG,False,6.5,32.74
+C01003,Title_1003,Series,Horror,Hindi,2022,PG-13,True,6.1,1.39
+C01004,Title_1004,Movie,Crime,Spanish,2023,TV-MA,True,4.6,3.61
+C01005,Title_1005,Series,Crime,Portuguese,2022,PG,False,7.1,4.41
+C01006,Title_1006,Series,Horror,Spanish,2021,R,False,7.3,0.46
+C01007,Title_1007,Series,Sci-Fi,English,2026,TV-MA,False,6.1,39.67
+C01008,Title_1008,Movie,Sci-Fi,Portuguese,2021,PG,True,7.2,10.88
+C01009,Title_1009,Series,Drama,English,2023,G,False,7.8,25.33
+C01010,Title_1010,Series,Kids & Family,Korean,2019,PG-13,False,7.5,14.51
+C01011,Title_1011,Movie,Anime,English,2020,PG,False,6.7,12.93
+C01012,Title_1012,Series,Crime,Korean,2024,R,True,6.6,0.23
+C01013,Title_1013,Series,Comedy,French,2024,TV-MA,True,9.1,14.52
+C01014,Title_1014,Series,Horror,Spanish,2015,PG-13,True,8.2,7.19
+C01015,Title_1015,Movie,Crime,English,2015,PG,False,7.3,4.85
+C01016,Title_1016,Movie,Kids & Family,Spanish,2019,PG-13,False,6.3,56.72
+C01017,Title_1017,Movie,Anime,French,2015,R,False,9.2,12.83
+C01018,Title_1018,Series,Documentary,English,2015,TV-MA,True,6.5,47.26
+C01019,Title_1019,Series,Documentary,Spanish,2021,TV-MA,False,6.3,6.18
+C01020,Title_1020,Movie,Comedy,Portuguese,2021,R,False,5.9,25.55
+C01021,Title_1021,Series,Horror,French,2020,G,True,5.1,1.98
+C01022,Title_1022,Series,Crime,Spanish,2017,PG-13,False,5.1,9.42
+C01023,Title_1023,Series,Action,Hindi,2019,PG,False,6.7,41.08
+C01024,Title_1024,Movie,Action,English,2017,PG-13,False,7.8,16.27
+C01025,Title_1025,Series,Sci-Fi,Hindi,2026,TV-MA,True,6.8,45.2
+C01026,Title_1026,Series,Documentary,English,2015,TV-MA,False,4.5,0.44
+C01027,Title_1027,Series,Documentary,German,2026,G,False,6.2,2.24
+C01028,Title_1028,Movie,Kids & Family,Portuguese,2020,TV-MA,False,8.3,21.88
+C01029,Title_1029,Movie,Crime,German,2023,TV-MA,False,7.5,23.09
+C01030,Title_1030,Series,Documentary,English,2016,R,False,7.1,67.0
+C01031,Title_1031,Series,Horror,Japanese,2016,PG,False,6.6,4.62
+C01032,Title_1032,Series,Kids & Family,English,2018,TV-MA,False,6.2,9.81
+C01033,Title_1033,Series,Romance,Portuguese,2019,PG-13,False,5.5,11.8
+C01034,Title_1034,Series,Horror,English,2023,PG-13,False,7.3,2.94
+C01035,Title_1035,Movie,Horror,German,2026,TV-MA,True,6.0,15.36
+C01036,Title_1036,Movie,Anime,Spanish,2025,TV-MA,False,6.2,1.54
+C01037,Title_1037,Series,Comedy,Korean,2021,PG-13,True,8.2,18.23
+C01038,Title_1038,Series,Kids & Family,Hindi,2021,R,True,7.4,1.44
+C01039,Title_1039,Movie,Documentary,English,2025,PG,False,8.7,19.78
+C01040,Title_1040,Series,Romance,French,2020,G,True,7.6,25.75
+C01041,Title_1041,Series,Documentary,French,2025,PG-13,False,7.8,1.21
+C01042,Title_1042,Movie,Reality TV,French,2026,G,False,5.0,4.23
+C01043,Title_1043,Series,Documentary,English,2026,PG,True,5.5,18.13
+C01044,Title_1044,Series,Horror,Japanese,2026,PG-13,False,7.8,84.73
+C01045,Title_1045,Series,Romance,English,2018,PG-13,False,6.5,1.31
+C01046,Title_1046,Series,Action,English,2024,TV-MA,False,6.5,7.8
+C01047,Title_1047,Series,Crime,English,2020,PG,True,8.0,32.31
+C01048,Title_1048,Movie,Action,Portuguese,2024,PG,False,6.4,2.57
+C01049,Title_1049,Series,Reality TV,Portuguese,2016,PG-13,False,6.0,12.56
+C01050,Title_1050,Series,Reality TV,English,2016,PG,False,5.5,20.13
+C01051,Title_1051,Series,Reality TV,English,2020,TV-MA,True,8.0,5.0
+C01052,Title_1052,Movie,Comedy,Korean,2020,PG-13,False,8.3,24.06
+C01053,Title_1053,Series,Comedy,Portuguese,2022,TV-MA,True,7.6,11.4
+C01054,Title_1054,Series,Action,Spanish,2015,R,True,6.8,49.01
+C01055,Title_1055,Series,Action,English,2024,R,False,7.1,32.81
+C01056,Title_1056,Movie,Reality TV,Spanish,2016,PG-13,True,8.4,55.7
+C01057,Title_1057,Movie,Drama,English,2018,TV-MA,False,7.6,12.65
+C01058,Title_1058,Series,Horror,German,2024,R,False,7.3,14.45
+C01059,Title_1059,Movie,Kids & Family,English,2024,PG-13,False,5.8,0.4
+C01060,Title_1060,Movie,Crime,Japanese,2018,TV-MA,False,4.8,5.95
+C01061,Title_1061,Series,Anime,French,2022,G,False,9.8,1.16
+C01062,Title_1062,Series,Comedy,English,2023,PG,True,7.3,3.82
+C01063,Title_1063,Series,Reality TV,English,2019,R,False,7.3,32.98
+C01064,Title_1064,Series,Sci-Fi,English,2021,TV-MA,False,7.6,11.67
+C01065,Title_1065,Movie,Action,Japanese,2015,TV-MA,True,6.3,2.75
+C01066,Title_1066,Series,Documentary,Portuguese,2018,PG,True,6.3,8.12
+C01067,Title_1067,Series,Reality TV,Spanish,2016,G,True,6.5,25.27
+C01068,Title_1068,Movie,Drama,English,2025,PG-13,False,6.2,12.64
+C01069,Title_1069,Series,Comedy,Hindi,2017,R,False,6.6,54.78
+C01070,Title_1070,Series,Kids & Family,Korean,2016,PG,False,7.2,14.38
+C01071,Title_1071,Series,Romance,Portuguese,2022,PG-13,False,8.1,5.89
+C01072,Title_1072,Movie,Anime,Spanish,2016,TV-MA,False,5.4,52.14
+C01073,Title_1073,Series,Anime,French,2023,TV-MA,False,5.9,1.12
+C01074,Title_1074,Series,Horror,Japanese,2019,G,True,5.5,6.09
+C01075,Title_1075,Series,Sci-Fi,French,2023,TV-MA,False,7.1,39.64
+C01076,Title_1076,Movie,Reality TV,Spanish,2024,G,False,5.5,2.09
+C01077,Title_1077,Movie,Anime,German,2023,TV-MA,True,6.5,5.08
+C01078,Title_1078,Movie,Crime,English,2017,R,False,6.2,30.0
+C01079,Title_1079,Movie,Horror,Japanese,2020,PG-13,False,5.5,6.88
+C01080,Title_1080,Series,Thriller,English,2016,TV-MA,False,7.2,0.91
+C01081,Title_1081,Series,Drama,English,2018,PG,False,6.2,8.32
+C01082,Title_1082,Series,Documentary,Hindi,2024,TV-MA,False,7.4,30.65
+C01083,Title_1083,Series,Crime,English,2018,R,True,7.6,5.21
+C01084,Title_1084,Movie,Action,Hindi,2015,PG,False,7.1,24.8
+C01085,Title_1085,Series,Anime,English,2026,TV-MA,False,6.4,12.17
+C01086,Title_1086,Series,Thriller,English,2016,PG-13,False,5.4,2.81
+C01087,Title_1087,Series,Romance,Spanish,2015,R,False,7.0,11.17
+C01088,Title_1088,Movie,Thriller,Hindi,2017,TV-MA,True,7.4,6.42
+C01089,Title_1089,Series,Thriller,Japanese,2021,R,False,7.5,47.32
+C01090,Title_1090,Series,Crime,Spanish,2022,R,False,6.0,7.48
+C01091,Title_1091,Movie,Romance,Hindi,2020,TV-MA,False,8.1,3.27
+C01092,Title_1092,Movie,Sci-Fi,Hindi,2022,R,False,6.3,4.45
+C01093,Title_1093,Series,Horror,Spanish,2024,R,False,8.2,26.95
+C01094,Title_1094,Series,Horror,Spanish,2023,TV-MA,False,6.5,25.74
+C01095,Title_1095,Movie,Comedy,Korean,2018,TV-MA,False,6.2,5.31
+C01096,Title_1096,Movie,Comedy,English,2015,TV-MA,False,6.2,8.82
+C01097,Title_1097,Movie,Reality TV,English,2024,PG-13,False,6.5,10.93
+C01098,Title_1098,Series,Thriller,Hindi,2020,R,True,6.5,9.91
+C01099,Title_1099,Series,Documentary,Portuguese,2022,TV-MA,True,5.8,10.35
+C01100,Title_1100,Movie,Comedy,English,2018,TV-MA,False,6.3,5.77
+C01101,Title_1101,Series,Sci-Fi,Hindi,2025,R,False,7.9,5.25
+C01102,Title_1102,Movie,Documentary,Hindi,2019,TV-MA,False,6.1,1.07
+C01103,Title_1103,Movie,Action,Japanese,2018,PG-13,True,5.2,25.12
+C01104,Title_1104,Movie,Comedy,German,2021,PG-13,False,6.4,0.67
+C01105,Title_1105,Movie,Anime,English,2023,TV-MA,True,5.9,1.62
+C01106,Title_1106,Series,Romance,Korean,2026,PG-13,False,7.9,5.06
+C01107,Title_1107,Series,Romance,English,2017,PG-13,True,6.2,14.87
+C01108,Title_1108,Movie,Reality TV,Korean,2017,PG-13,False,8.0,21.02
+C01109,Title_1109,Series,Documentary,German,2019,TV-MA,False,4.8,3.06
+C01110,Title_1110,Series,Romance,German,2022,R,False,6.0,0.05
+C01111,Title_1111,Movie,Documentary,English,2020,G,True,7.8,14.65
+C01112,Title_1112,Series,Documentary,Japanese,2025,G,False,8.5,4.7
+C01113,Title_1113,Series,Thriller,English,2018,PG,False,6.7,37.76
+C01114,Title_1114,Series,Drama,English,2023,TV-MA,True,8.0,19.25
+C01115,Title_1115,Series,Kids & Family,French,2023,PG-13,False,5.0,13.76
+C01116,Title_1116,Movie,Thriller,English,2023,PG,False,5.2,5.58
+C01117,Title_1117,Series,Anime,German,2020,TV-MA,True,7.4,1.24
+C01118,Title_1118,Movie,Action,Korean,2023,G,True,7.7,23.11
+C01119,Title_1119,Series,Kids & Family,Japanese,2018,PG-13,False,5.3,13.93
+C01120,Title_1120,Series,Horror,French,2019,G,False,5.9,0.0
+C01121,Title_1121,Movie,Comedy,English,2016,TV-MA,True,7.9,0.94
+C01122,Title_1122,Series,Sci-Fi,Portuguese,2025,G,False,5.4,4.64
+C01123,Title_1123,Series,Reality TV,German,2018,TV-MA,False,6.3,27.79
+C01124,Title_1124,Series,Reality TV,English,2016,G,True,6.6,28.58
+C01125,Title_1125,Series,Anime,English,2020,TV-MA,False,5.5,14.56
+C01126,Title_1126,Series,Drama,Korean,2020,R,False,8.2,17.74
+C01127,Title_1127,Series,Anime,Japanese,2026,PG-13,False,5.2,33.28
+C01128,Title_1128,Movie,Drama,English,2020,PG-13,True,7.3,3.06
+C01129,Title_1129,Series,Romance,French,2025,PG-13,True,6.7,34.28
+C01130,Title_1130,Series,Drama,Portuguese,2016,TV-MA,False,6.3,16.9
+C01131,Title_1131,Movie,Sci-Fi,English,2019,R,False,6.6,1.73
+C01132,Title_1132,Movie,Sci-Fi,Hindi,2020,TV-MA,True,6.7,6.68
+C01133,Title_1133,Series,Horror,French,2023,TV-MA,True,7.4,23.68
+C01134,Title_1134,Series,Documentary,German,2024,PG-13,True,7.8,16.7
+C01135,Title_1135,Series,Documentary,English,2023,TV-MA,False,7.3,11.73
+C01136,Title_1136,Series,Drama,English,2023,R,False,5.4,3.53
+C01137,Title_1137,Movie,Kids & Family,Spanish,2023,PG-13,False,7.4,0.84
+C01138,Title_1138,Series,Romance,English,2021,TV-MA,True,6.1,52.74
+C01139,Title_1139,Series,Documentary,Hindi,2021,PG,False,6.7,4.24
+C01140,Title_1140,Series,Kids & Family,English,2015,R,True,8.6,0.14
+C01141,Title_1141,Series,Crime,French,2018,R,True,6.8,12.72
+C01142,Title_1142,Series,Action,German,2018,TV-MA,False,6.8,3.48
+C01143,Title_1143,Movie,Anime,English,2017,TV-MA,True,6.7,0.14
+C01144,Title_1144,Movie,Comedy,Hindi,2020,PG-13,True,6.9,0.89
+C01145,Title_1145,Movie,Thriller,English,2019,PG-13,False,6.4,42.19
+C01146,Title_1146,Movie,Kids & Family,Portuguese,2016,R,False,6.6,9.14
+C01147,Title_1147,Series,Thriller,English,2020,PG-13,False,7.6,2.85
+C01148,Title_1148,Series,Horror,Korean,2018,TV-MA,False,8.3,4.44
+C01149,Title_1149,Series,Anime,English,2015,TV-MA,True,5.6,21.11
+C01150,Title_1150,Series,Action,Hindi,2021,PG-13,False,7.7,34.21
+C01151,Title_1151,Movie,Action,Japanese,2020,R,False,5.6,11.06
+C01152,Title_1152,Movie,Thriller,German,2025,PG,False,6.3,12.16
+C01153,Title_1153,Series,Sci-Fi,Portuguese,2015,TV-MA,False,5.2,40.03
+C01154,Title_1154,Movie,Romance,French,2020,PG-13,False,7.9,6.34
+C01155,Title_1155,Movie,Horror,Portuguese,2018,TV-MA,False,7.5,4.91
+C01156,Title_1156,Movie,Documentary,Hindi,2024,PG-13,False,7.7,27.8
+C01157,Title_1157,Movie,Thriller,Portuguese,2026,PG-13,True,8.3,11.23
+C01158,Title_1158,Series,Reality TV,Spanish,2024,TV-MA,True,6.0,15.72
+C01159,Title_1159,Series,Comedy,German,2021,TV-MA,False,8.2,33.65
+C01160,Title_1160,Series,Sci-Fi,English,2025,TV-MA,False,7.4,4.24
+C01161,Title_1161,Movie,Crime,German,2024,PG,False,8.0,18.27
+C01162,Title_1162,Series,Thriller,English,2016,PG,False,6.2,3.24
+C01163,Title_1163,Series,Documentary,English,2026,R,True,5.1,0.98
+C01164,Title_1164,Series,Horror,English,2015,TV-MA,False,5.0,3.22
+C01165,Title_1165,Series,Crime,Hindi,2025,TV-MA,False,7.5,0.8
+C01166,Title_1166,Series,Horror,English,2025,R,True,5.8,10.44
+C01167,Title_1167,Series,Reality TV,English,2019,PG-13,True,6.1,14.99
+C01168,Title_1168,Series,Kids & Family,Hindi,2025,R,False,7.7,16.8
+C01169,Title_1169,Movie,Sci-Fi,English,2016,PG,False,7.4,11.9
+C01170,Title_1170,Series,Anime,Japanese,2018,PG-13,False,5.9,27.16
+C01171,Title_1171,Series,Documentary,German,2026,TV-MA,False,6.7,0.16
+C01172,Title_1172,Series,Action,Spanish,2018,R,False,6.5,8.07
+C01173,Title_1173,Series,Reality TV,German,2017,TV-MA,True,8.0,5.18
+C01174,Title_1174,Series,Romance,Korean,2023,PG-13,True,7.8,0.1
+C01175,Title_1175,Movie,Anime,Portuguese,2026,PG-13,True,7.0,5.13
+C01176,Title_1176,Series,Action,German,2023,PG-13,False,8.3,12.74
+C01177,Title_1177,Series,Horror,Korean,2024,PG,False,8.2,0.89
+C01178,Title_1178,Movie,Anime,English,2015,PG-13,True,6.8,10.78
+C01179,Title_1179,Movie,Thriller,Japanese,2019,PG-13,False,6.2,2.7
+C01180,Title_1180,Series,Crime,English,2026,TV-MA,False,5.9,26.09
+C01181,Title_1181,Movie,Action,English,2026,R,False,7.2,8.27
+C01182,Title_1182,Series,Comedy,Japanese,2017,PG,False,7.4,18.7
+C01183,Title_1183,Series,Anime,English,2017,PG-13,False,8.2,3.39
+C01184,Title_1184,Movie,Drama,English,2023,R,False,9.0,3.8
+C01185,Title_1185,Series,Kids & Family,English,2020,TV-MA,False,8.4,30.93
+C01186,Title_1186,Series,Thriller,English,2020,PG-13,False,8.2,3.48
+C01187,Title_1187,Movie,Crime,English,2015,PG-13,False,6.8,18.51
+C01188,Title_1188,Series,Comedy,English,2018,PG-13,True,7.2,32.0
+C01189,Title_1189,Movie,Reality TV,Hindi,2020,PG-13,True,4.6,4.44
+C01190,Title_1190,Series,Action,Korean,2024,PG,False,5.1,5.61
+C01191,Title_1191,Series,Sci-Fi,Portuguese,2017,TV-MA,True,8.5,29.22
+C01192,Title_1192,Series,Comedy,Portuguese,2015,PG-13,False,8.4,10.25
+C01193,Title_1193,Series,Kids & Family,Hindi,2021,PG,False,5.3,1.96
+C01194,Title_1194,Movie,Reality TV,Hindi,2022,R,False,6.6,8.98
+C01195,Title_1195,Movie,Kids & Family,Portuguese,2026,R,False,6.6,9.17
+C01196,Title_1196,Series,Horror,English,2017,PG-13,False,7.2,9.77
+C01197,Title_1197,Series,Action,German,2026,G,False,5.5,30.07
+C01198,Title_1198,Series,Comedy,English,2018,R,True,6.0,1.86
+C01199,Title_1199,Movie,Romance,Spanish,2018,TV-MA,True,7.2,17.58
+C01200,Title_1200,Series,Reality TV,German,2016,PG,True,5.3,17.38
