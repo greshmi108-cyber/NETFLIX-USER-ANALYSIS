@@ -174,13 +174,5 @@ python 02_eda_and_growth_analysis.py  # cleaning, EDA, charts, feature engineeri
 
 ---
 
-## 📄 Additional Documentation
-- [Business Problem](Documentation/01_Business_Problem.md)
-- [KPI Dictionary](Documentation/02_KPI_Dictionary.md)
-- [25 Business Recommendations](Documentation/03_Business_Recommendations.md)
-- [Resume Bullet Points](Documentation/04_Resume_Points.md)
-- [25 Interview Questions](Documentation/05_Interview_Questions.md)
-
----
 
 *This is a portfolio/educational project. All data is synthetically generated and does not represent real Netflix users, content, or financials.*
